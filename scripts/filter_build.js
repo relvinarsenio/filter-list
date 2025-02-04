@@ -3,6 +3,9 @@ const path = require('path');
 
 const LINE_BREAK = '\n';
 const COMMENT_MARKER = '!';
+const EXCEPTION_MARKER = '@@';
+const DNS_REWRITE = '$dnsrewrite=';
+const DNS_REWRITE_RULE = 'ad-block.dns.adguard.com';
 
 /**
  * Path to the filter file
@@ -35,10 +38,10 @@ const convertFilterList = async (path) => {
         const modifiedContent = fileContent
             .split(LINE_BREAK)
             .map((line) => {
-                if (line.startsWith(COMMENT_MARKER)) {
+                if (line.startsWith(COMMENT_MARKER) || line.includes(DNS_REWRITE) || line.startsWith(EXCEPTION_MARKER)) {
                     return line;
                 }
-                return `${line}$dnsrewrite=ad-block.dns.adguard.com`;
+                return `${line}${DNS_REWRITE}${DNS_REWRITE_RULE}`;
             })
             .join(LINE_BREAK);
         await fs.writeFile(path, modifiedContent);

@@ -1,4 +1,4 @@
-# AdGuard DNS filter
+# Enhanced Security DNS Filter
 
 Formerly *AdGuard Simplified Domain names filter*.
 

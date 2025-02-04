@@ -2,7 +2,7 @@
 
 Blocks ads, trackers, malware, and online threats with optimized DNS-level filtering.
 
-### How to build AdGuard DNS filter manually
+### How to build DNS filter manually
 
 ```
 yarn install

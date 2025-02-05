@@ -17,7 +17,6 @@ The output is written to `Filters/filter.txt`.
 
 #### These filter lists block domains that are used to provide and show advertisements on websites
 
-* [HaGeZi's Pro mini DNS/Browser Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt)
 * [oisd small](https://small.oisd.nl)
 * [Online Malicious URL Blocklist](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt)
 * [ABPindo ad servers](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt)

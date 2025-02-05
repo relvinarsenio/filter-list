@@ -5,13 +5,6 @@
   "license": "https://github.com/relvinarsenio/filter-list/blob/main/LICENSE",
   "sources": [
     {
-      "name": "HaGeZi's Pro mini DNS/Browser Blocklist",
-      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.mini.txt",
-      "type": "adblock",
-      "exclusions_sources": ["https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/refs/heads/master/Filters/exclusions.txt"],
-      "transformations": ["Deduplicate", "RemoveEmptyLines", "Validate", "RemoveComments", "RemoveModifiers", "TrimLines"]
-    },
-    {
       "name": "oisd small",
       "source": "https://small.oisd.nl",
       "type": "adblock",

@@ -1,9 +1,9 @@
-name: Build AdGuard DNS filter
+name: Build DNS filter
 
 on:
   push:
   schedule:
-    - cron: '0 */6 * * *' # Every 6th hour
+    - cron: '0 */6 * * *'
   workflow_dispatch:
 
 jobs:

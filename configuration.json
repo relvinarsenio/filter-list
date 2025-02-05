@@ -33,6 +33,13 @@
       "transformations": ["RemoveModifiers", "Validate"]
     },
     {
+      "name": "BebasDNS's Custom Filtering",
+      "source": "https://raw.githubusercontent.com/bebasid/bebasdns/main/dev/resources/hosts/custom-filtering-rules-blocklist",
+      "type": "hosts",
+      "exclusions_sources": ["https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/refs/heads/master/Filters/exclusions.txt"],
+      "transformations": ["Deduplicate", "Validate", "RemoveComments", "RemoveEmptyLines", "TrimLines"]
+    },
+    {
       "name": "Additional rules",
       "source": "https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/refs/heads/master/Filters/rules.txt",
       "transformations": ["Validate"],

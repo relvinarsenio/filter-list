@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-02-09T01:44:30.542Z
+! Last modified: 2025-02-09T06:27:10.233Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.34
 !
@@ -18416,7 +18416,6 @@
 ||gae.karte.io^$dnsrewrite=ad-block.dns.adguard.com
 ||gagdungeon.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gagebonus.com^$dnsrewrite=ad-block.dns.adguard.com
-||gagepicaras.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gagheroinintact.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gaghygienetheir.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gaietyexhalerucksack.com^$dnsrewrite=ad-block.dns.adguard.com

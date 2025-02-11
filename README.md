@@ -18,6 +18,7 @@ The output is written to `Filters/filter.txt`.
 #### These filter lists block domains that are used to provide and show advertisements on websites
 
 * [oisd small](https://small.oisd.nl)
+* [AdGuard Mobile Ads filter](https://github.com/AdguardTeam/AdguardFilters/tree/master/SpywareFilter/sections)
 * [Online Malicious URL Blocklist](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt)
 * [ABPindo ad servers](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt)
 * [ABPindo ad servers third-party](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt)

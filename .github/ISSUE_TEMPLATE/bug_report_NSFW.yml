@@ -1,5 +1,5 @@
 name: Bug report (NSFW)
-description: Report an issue with AdGuard DNS filter (incorrect blocking or missed ad/tracker) (NSFW)
+description: Report an issue with Enhanced Security DNS filter (incorrect blocking or missed ad/tracker) (NSFW)
 labels: ["A: Bug", "NSFW"]
 body:
   - type: checkboxes
@@ -8,13 +8,13 @@ body:
       description: |
         To avoid invalid reports, please check and confirm following checkboxes.
       options:
-        - label: The problem occurs only when using AdGuard DNS or DNS filtering with AdGuard DNS filter, it is not caused by other ad blockers;
+        - label: The problem occurs only when using Enhanced Security DNS or DNS filtering with Enhanced Security DNS filter, it is not caused by other ad blockers;
           required: true
-        - label: You're using an up-to-date version of AdGuard DNS filter;
+        - label: You're using an up-to-date version of Enhanced Security DNS filter;
           required: false
         - label: Browser version is up-to-date;
           required: false
-        - label: If a website or an app is broken, disabling AdGuard DNS filter resolves the issue.
+        - label: If a website or an app is broken, disabling Enhanced Security DNS filter resolves the issue.
           required: true
 
   - type: dropdown
@@ -59,8 +59,8 @@ body:
       label: What DNS filters do you have enabled?
       description: If you're using multiple filters, please provide the list of enabled DNS filters in the field below.
       placeholder: |
-        * ex. AdGuard DNS filter
-        * ex. https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
+        * ex. Enhanced Security DNS filter
+        * ex. https://github.com/relvinarsenio/filter-list/raw/refs/heads/gh-pages/Filters/filter.txt
     validations:
       required: true
 

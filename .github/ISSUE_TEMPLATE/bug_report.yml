@@ -1,22 +1,22 @@
 name: Bug Report
-description: Report an issue with Enhanced Security DNS filter (incorrect blocking or missed ad/tracker).
+description: Report an issue with Enhanced Security DNS Filter (incorrect blocking or missed ad/tracker).
 labels: ["A: Bug"]
 body:
   - type: checkboxes
     attributes:
       label: Prerequisites
       description: |
-        To avoid invalid reports, please check and confirm following checkboxes.
+        To avoid invalid reports, please check and confirm the following checkboxes.
       options:
-        - label: This site DOES NOT contains sexually explicit material;
+        - label: This site DOES NOT contain sexually explicit material;
           required: true
-        - label: The problem occurs only when using Enhanced Security DNS or DNS filtering with Enhanced Security DNS filter, it is not caused by other ad blockers;
+        - label: The problem occurs only when using AdGuard DNS or DNS filtering with Enhanced Security DNS Filter, it is not caused by other ad blockers;
           required: true
-        - label: You're using an up-to-date version of Enhanced Security DNS filter;
+        - label: You're using an up-to-date version of Enhanced Security DNS Filter;
           required: false
         - label: Browser version is up-to-date;
           required: false
-        - label: If a website or an app is broken, disabling Enhanced Security DNS filter resolves the issue.
+        - label: If a website or an app is broken, disabling Enhanced Security DNS Filter resolves the issue.
           required: true
 
   - type: dropdown
@@ -61,7 +61,7 @@ body:
       label: What DNS filters do you have enabled?
       description: If you're using multiple filters, please provide the list of enabled DNS filters in the field below.
       placeholder: |
-        * ex. Enhanced Security DNS filter
+        * ex. Enhanced Security DNS Filter
         * ex. https://github.com/relvinarsenio/filter-list/raw/refs/heads/gh-pages/Filters/filter.txt
     validations:
       required: true
@@ -131,7 +131,7 @@ body:
         2. Please describe the issue extensively unless it is absolutely clear from the screenshot what the problem is;
         You can also indicate any other information that you think the developers should know.
 
-        Warning: Please remove private info before upload screenshots!
+        Warning: Please remove private info before uploading screenshots!
       placeholder: |
         1. Your comment
         2. Screenshots
@@ -153,7 +153,7 @@ body:
     id: terms
     attributes:
       label: Privacy
-      description: By submitting this issue, you agree that report does not contain private info
+      description: By submitting this issue, you agree that the report does not contain private info.
       options:
         - label: I agree to follow this condition
           required: true

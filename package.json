@@ -1,6 +1,6 @@
 {
   "name": "enhanced-sdn-filter",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Blocks ads, trackers, malware, and online threats with optimized DNS-level",
   "repository": "https://github.com/relvinarsenio/filter-list",
   "author": "Relvin Arsenio",
@@ -9,6 +9,6 @@
     "build": "./scripts/build.sh"
   },
   "dependencies": {
-    "@adguard/hostlist-compiler": "1.0.34"
+    "@adguard/hostlist-compiler": "1.0.35"
   }
 }

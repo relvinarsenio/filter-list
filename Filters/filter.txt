@@ -3,9 +3,9 @@
 ! Description: Blocks ads, trackers, malware, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-02-16T09:05:24.901Z
+! Last modified: 2025-02-16T09:30:40.869Z
 !
-! Compiled by @adguard/hostlist-compiler v1.0.34
+! Compiled by @adguard/hostlist-compiler v1.0.35
 !
 ||0-02.net^$dnsrewrite=ad-block.dns.adguard.com
 ||0.101tubeporn.com^$dnsrewrite=ad-block.dns.adguard.com

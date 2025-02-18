@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-02-18T01:40:46.415Z
+! Last modified: 2025-02-18T06:29:37.790Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -32042,7 +32042,6 @@
 ||rapingdistil.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rapmqouaqpmir.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rapolok.com^$dnsrewrite=ad-block.dns.adguard.com
-||rappeereffelt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rapturemeddle.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rar-vpn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rarrwcfe.com^$dnsrewrite=ad-block.dns.adguard.com

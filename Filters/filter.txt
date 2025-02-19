@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-02-19T01:41:31.372Z
+! Last modified: 2025-02-19T06:30:08.117Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -21092,7 +21092,6 @@
 ||ibidemkorari.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ibikini.cyou^$dnsrewrite=ad-block.dns.adguard.com
 ||ibkoiw.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||ibmfunk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||iboobeelt.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ibqemk.icu^$dnsrewrite=ad-block.dns.adguard.com
 ||ibqmey.xyz^$dnsrewrite=ad-block.dns.adguard.com

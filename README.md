@@ -1,6 +1,6 @@
 # Enhanced Security DNS Filter
 
-Blocks ads, trackers, malware, and online threats with optimized DNS-level filtering.
+Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level filtering.
 
 ### How to build DNS filter manually
 

@@ -1,6 +1,6 @@
 {
   "name": "Enhanced Security DNS Filter",
-  "description": "Blocks ads, trackers, malware, and online threats with optimized DNS-level",
+  "description": "Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level",
   "homepage": "https://github.com/relvinarsenio/filter-list",
   "license": "https://github.com/relvinarsenio/filter-list/blob/main/LICENSE",
   "sources": [
@@ -42,6 +42,13 @@
     {
       "name": "ABPindo ad servers third-party",
       "source": "https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt",
+      "type": "adblock",
+      "exclusions_sources": ["https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/refs/heads/master/Filters/exclusions.txt"],
+      "transformations": ["RemoveModifiers", "Validate"]
+    },
+    {
+      "name": "HaGeZi's Fake DNS Blocklist",
+      "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt",
       "type": "adblock",
       "exclusions_sources": ["https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/refs/heads/master/Filters/exclusions.txt"],
       "transformations": ["RemoveModifiers", "Validate"]

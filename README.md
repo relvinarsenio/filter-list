@@ -22,6 +22,7 @@ The output is written to `Filters/filter.txt`.
 * [Online Malicious URL Blocklist](https://malware-filter.gitlab.io/malware-filter/urlhaus-filter-agh-online.txt)
 * [ABPindo ad servers](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/adservers.txt)
 * [ABPindo ad servers third-party](https://raw.githubusercontent.com/ABPindo/indonesianadblockrules/master/src/advert/thirdparty.txt)
+* [HaGeZi's Fake DNS Blocklist](https://raw.githubusercontent.com/hagezi/dns-blocklists/main/wildcard/fake-onlydomains.txt)
 * [BebasDNS's Custom Filtering](https://raw.githubusercontent.com/bebasid/bebasdns/main/dev/resources/hosts/custom-filtering-rules-blocklist)
 * [Additional rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/refs/heads/master/Filters/rules.txt)
 * [Exception rules](https://github.com/AdguardTeam/AdGuardSDNSFilter/raw/refs/heads/master/Filters/exceptions.txt)

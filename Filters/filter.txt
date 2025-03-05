@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-05T12:43:14.100Z
+! Last modified: 2025-03-05T18:31:26.844Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -2469,7 +2469,6 @@
 ||ad.bandlab.io^$dnsrewrite=ad-block.dns.adguard.com
 ||ad.bench.utorrent.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ad.bitmedia.io^$dnsrewrite=ad-block.dns.adguard.com
-||ad.bizo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ad.bluepartner.eu^$dnsrewrite=ad-block.dns.adguard.com
 ||ad.bobi.tw^$dnsrewrite=ad-block.dns.adguard.com
 ||ad.bondage.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -13927,7 +13926,6 @@
 ||db770a49df.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dba9ytko5p72r.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
 ||dbbsrv.com^$dnsrewrite=ad-block.dns.adguard.com
-||dbbupggdbamnvo.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dbc16ca4a8.1c0451188d.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dbcdqp72lzmvj.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
 ||dbclix.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -15999,7 +15997,6 @@
 ||eel.ieo.do^$dnsrewrite=ad-block.dns.adguard.com
 ||eel.transistor.fm^$dnsrewrite=ad-block.dns.adguard.com
 ||eemgl.com^$dnsrewrite=ad-block.dns.adguard.com
-||eenbies.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eengange.com^$dnsrewrite=ad-block.dns.adguard.com
 ||eentent.streampiay.me^$dnsrewrite=ad-block.dns.adguard.com
 ||eepengoons.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -20986,7 +20983,6 @@
 ||hsrvz.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hst2y.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hsvmtn.xyz^$dnsrewrite=ad-block.dns.adguard.com
-||hsxtmfaoqis.com^$dnsrewrite=ad-block.dns.adguard.com
 ||htanothingfruit.com^$dnsrewrite=ad-block.dns.adguard.com
 ||htdvt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hthvc.icu^$dnsrewrite=ad-block.dns.adguard.com
@@ -37154,7 +37150,6 @@
 ||stingray.tagedraussen-film.at^$dnsrewrite=ad-block.dns.adguard.com
 ||stingyectoderm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stingywear.pro^$dnsrewrite=ad-block.dns.adguard.com
-||stinkcomedian.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stinkwrestle.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stinkyloadeddoctor.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stionicgeodist.com^$dnsrewrite=ad-block.dns.adguard.com

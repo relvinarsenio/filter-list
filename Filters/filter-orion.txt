@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-25T13:32:55.070Z
+! Last modified: 2025-03-25T13:35:54.978Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -566,8 +566,8 @@
 ||biggestplayer.cachefly.net^$dnsrewrite=ad-block.dns.adguard.com
 ||pvrtx.net^$dnsrewrite=ad-block.dns.adguard.com
 ||checkhit.com^$dnsrewrite=ad-block.dns.adguard.com
-||.bbelements.com^$dnsrewrite=ad-block.dns.adguard.com
-||.doublepimp.com^$dnsrewrite=ad-block.dns.adguard.com
+.bbelements.com^
+.doublepimp.com^
 ||1100ad.com^$dnsrewrite=ad-block.dns.adguard.com
 ||2performant.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adamoads.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1119,11 +1119,11 @@
 ||hbplatform.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affiliate.k4.tinhte.vn^$dnsrewrite=ad-block.dns.adguard.com
 ||delivery.senvangvn.com^$dnsrewrite=ad-block.dns.adguard.com
-||.n.2.1.js^$dnsrewrite=ad-block.dns.adguard.com
-||.n.2.1.l60.js^$dnsrewrite=ad-block.dns.adguard.com
-||.1.1.1.l80.js^$dnsrewrite=ad-block.dns.adguard.com
-||.3.n.2.1.l50.js^$dnsrewrite=ad-block.dns.adguard.com
-||.3.n.2.2.l30.js^$dnsrewrite=ad-block.dns.adguard.com
+.n.2.1.js^
+.n.2.1.l60.js^
+.1.1.1.l80.js^
+.3.n.2.1.l50.js
+.3.n.2.2.l30.js
 ||gulf.moneroocean.stream^$dnsrewrite=ad-block.dns.adguard.com
 ||trustisimportant.fun^$dnsrewrite=ad-block.dns.adguard.com
 ||pool.supportxmr.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -32259,7 +32259,7 @@
 ||clickguard.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ct.beslist.nl^$dnsrewrite=ad-block.dns.adguard.com
 ||tvpixel.com^$dnsrewrite=ad-block.dns.adguard.com
-||.tvp.tv^$dnsrewrite=ad-block.dns.adguard.com
+.tvp.tv^
 ||applicationinsights.azure.com^$dnsrewrite=ad-block.dns.adguard.com
 ||analytics.sve.cc^$dnsrewrite=ad-block.dns.adguard.com
 ||api.taboola.sve.cc^$dnsrewrite=ad-block.dns.adguard.com
@@ -32534,7 +32534,7 @@
 ||infinity-tracking.com^$dnsrewrite=ad-block.dns.adguard.com
 ||system-debug-1.b-cdn.net^$dnsrewrite=ad-block.dns.adguard.com
 ||lab.analyticspodium.com^$dnsrewrite=ad-block.dns.adguard.com
-||-s2s.sensic.net^$dnsrewrite=ad-block.dns.adguard.com
+-s2s.sensic.net^
 ||driveniq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||usermetric.io^$dnsrewrite=ad-block.dns.adguard.com
 ||pb.adriver.ru^$dnsrewrite=ad-block.dns.adguard.com
@@ -35802,7 +35802,7 @@
 ||luminati.io^$dnsrewrite=ad-block.dns.adguard.com
 ||visilabs.com^$dnsrewrite=ad-block.dns.adguard.com
 ||visilabs.net^$dnsrewrite=ad-block.dns.adguard.com
-||.ay.delivery^$dnsrewrite=ad-block.dns.adguard.com
+.ay.delivery^
 ||location.cyou^$dnsrewrite=ad-block.dns.adguard.com
 ||mymap.icu^$dnsrewrite=ad-block.dns.adguard.com
 ||mymap.quest^$dnsrewrite=ad-block.dns.adguard.com
@@ -35924,7 +35924,7 @@
 ||trekkww.space^$dnsrewrite=ad-block.dns.adguard.com
 ||trekkeeee.space^$dnsrewrite=ad-block.dns.adguard.com
 ||trekkww.fun^$dnsrewrite=ad-block.dns.adguard.com
-||.stape.net^$dnsrewrite=ad-block.dns.adguard.com
+.stape.net
 |load.gtm.
 |load.sgtm.
 |load.ss.
@@ -36061,7 +36061,7 @@
 ||stat.pravdafrance.com^$dnsrewrite=ad-block.dns.adguard.com
 ||telemetry.dzen.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||gtm.temu.com^$dnsrewrite=ad-block.dns.adguard.com
-||.prod.pr.analytics.console.aws.a2z.com^$dnsrewrite=ad-block.dns.adguard.com
+.prod.pr.analytics.console.aws.a2z.com
 ||log.shortbread.analytics.console.aws.a2z.com^$dnsrewrite=ad-block.dns.adguard.com
 ||log.shortbread.aws.dev^$dnsrewrite=ad-block.dns.adguard.com
 ||trck.*.prod-na.turntable.sonic.advertising.amazon.dev^
@@ -36723,7 +36723,7 @@
 ||track.parentmood.com^$dnsrewrite=ad-block.dns.adguard.com
 ||track.shrinkplus.com^$dnsrewrite=ad-block.dns.adguard.com
 ||track.thefunpost.com^$dnsrewrite=ad-block.dns.adguard.com
-||-tracker.biliapi.net^$dnsrewrite=ad-block.dns.adguard.com
+-tracker.biliapi.net^
 ||pixel*.production-public.tubi.io^
 ||analytics-ingestion-v3.main-production-custom.production.k8s.tubi.io^$dnsrewrite=ad-block.dns.adguard.com
 ||analytics-ingestion.production-public.tubi.io^$dnsrewrite=ad-block.dns.adguard.com
@@ -36786,8 +36786,8 @@
 ||analytics.data.visenze.com^$dnsrewrite=ad-block.dns.adguard.com
 ||evs.proxy.analytics.shutterstock.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gtm-server.healthline.com^$dnsrewrite=ad-block.dns.adguard.com
-||-telemetry.officeapps.live.com^$dnsrewrite=ad-block.dns.adguard.com
-||-telemetry.officeapps.live.com.mcas.ms^$dnsrewrite=ad-block.dns.adguard.com
+-telemetry.officeapps.live.com^
+-telemetry.officeapps.live.com.mcas.ms^
 ||kaan.kakao.com^$dnsrewrite=ad-block.dns.adguard.com
 ||rec.banggood.com^$dnsrewrite=ad-block.dns.adguard.com
 ||metrics.icloud.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -38683,14 +38683,14 @@
 ||analytics.qoqa.ch^$dnsrewrite=ad-block.dns.adguard.com
 ||analytics.qoqa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||privacy-sandbox.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
-||-pia.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
-||-skadsdkless.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
-||-adrevenue.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
-||-attr.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
+-pia.appsflyersdk.com^
+-skadsdkless.appsflyersdk.com^
+-adrevenue.appsflyersdk.com^
+-attr.appsflyersdk.com^
 ||register.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||conversions.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gcdsdk.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
-||-launches.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
+-launches.appsflyersdk.com^
 ||cdn-settings.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dlsdk.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||adrevenue.appsflyer.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -38832,7 +38832,7 @@
 ||hw-sh-pcdn-*.biliapi.net^
 ||ali-bj-pcdn-*.biliapi.net^
 ||tatrack.thinkyeah.com^$dnsrewrite=ad-block.dns.adguard.com
-||-rtb.gravite.net^$dnsrewrite=ad-block.dns.adguard.com
+-rtb.gravite.net^
 ||mon*-misc-lf.fqnovel.com^
 ||vcs.zijieapi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||monsetting.toutiao.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -38998,7 +38998,7 @@
 ||arcspire.io^$dnsrewrite=ad-block.dns.adguard.com
 ||sensors.snaptube.app^$dnsrewrite=ad-block.dns.adguard.com
 ||analytics.kongregate.io^$dnsrewrite=ad-block.dns.adguard.com
-||-spiky.clevertap-prod.com^$dnsrewrite=ad-block.dns.adguard.com
+-spiky.clevertap-prod.com^
 ||logs.gshopper.com^$dnsrewrite=ad-block.dns.adguard.com
 ||airlytics.airlock.twcmobile.weather.com^$dnsrewrite=ad-block.dns.adguard.com
 ||track.midway.run^$dnsrewrite=ad-block.dns.adguard.com
@@ -40783,7 +40783,7 @@
 ||wrapper.lemde.fr^$dnsrewrite=ad-block.dns.adguard.com
 ||ws3.smartp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||aff*.kolektiva.net^
-||-logging.nextmedia.com^$dnsrewrite=ad-block.dns.adguard.com
+-logging.nextmedia.com^
 ||analytics.meituan.net^$dnsrewrite=ad-block.dns.adguard.com
 ||atanx.alicdn.com^$dnsrewrite=ad-block.dns.adguard.com
 ||beacon.sina.com.cn^$dnsrewrite=ad-block.dns.adguard.com

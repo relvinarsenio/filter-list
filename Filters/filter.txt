@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-25T13:32:50.365Z
+! Last modified: 2025-03-25T13:35:46.430Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -44225,14 +44225,14 @@
 ||datacollector-*.dt.hicloud.com^
 ||analytics-sprint.qoqa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||analytics.qoqa.com^$dnsrewrite=ad-block.dns.adguard.com
-||-pia.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
-||-skadsdkless.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
-||-adrevenue.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
-||-attr.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
+-pia.appsflyersdk.com^
+-skadsdkless.appsflyersdk.com^
+-adrevenue.appsflyersdk.com^
+-attr.appsflyersdk.com^
 ||register.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||conversions.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gcdsdk.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
-||-launches.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
+-launches.appsflyersdk.com^
 ||cdn-settings.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||dlsdk.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||app.appsflyer.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -44263,7 +44263,7 @@
 ||log*-normal-useast1a.lemon8-app.com^
 ||hw-sh-pcdn-*.biliapi.net^
 ||ali-bj-pcdn-*.biliapi.net^
-||-rtb.gravite.net^$dnsrewrite=ad-block.dns.adguard.com
+-rtb.gravite.net^
 ||mon*-misc-lf.fqnovel.com^
 -applog*.fqnovel.com^
 ||sonar*.xy.fbcdn.net^
@@ -44291,7 +44291,7 @@
 ||logservice-*.platform.dbankcloud.cn^
 ||ubacollect-*.cloud.dbankcloud.cn^
 ||datacollector-*.dt.dbankcloud.cn^
-||-spiky.clevertap-prod.com^$dnsrewrite=ad-block.dns.adguard.com
+-spiky.clevertap-prod.com^
 ||logs1407.xiti.com^$dnsrewrite=ad-block.dns.adguard.com
 ||fp-*it*.fengkongcloud.com^
 ||report-stats.ad.jiguang.cn^$dnsrewrite=ad-block.dns.adguard.com

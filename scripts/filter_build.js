@@ -7,8 +7,8 @@ const EXCEPTION_MARKER = '@@';
 const DNS_REWRITE = '$dnsrewrite=';
 const DNS_REWRITE_RULE = 'ad-block.dns.adguard.com';
 
-// Regex buat validasi domain & bersihin format salah (`://` atau tanpa `||`)
-const DOMAIN_REGEX = /^(?:\|\|)?(?::\/\/)?([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})\^?$/;
+// Regex buat validasi domain (wajib diawali huruf/angka & punya TLD)
+const VALID_DOMAIN_REGEX = /^(?:\|\|)?(?::\/\/)?([a-zA-Z0-9][a-zA-Z0-9.-]*\.[a-zA-Z]{2,})\^?$/;
 
 /**
  * Path to the filter file
@@ -35,7 +35,7 @@ const getFileContent = async (filePath) => {
  * @returns {string | null} - Cleaned domain rule or null if invalid
  */
 const cleanDomainRule = (line) => {
-    const match = line.match(DOMAIN_REGEX);
+    const match = line.match(VALID_DOMAIN_REGEX);
     if (match) {
         return `||${match[1]}^`; // Tambahin `||` kalau belum ada
     }
@@ -62,7 +62,7 @@ const convertFilterList = async (filePath) => {
                     return line;
                 }
 
-                // Bersihkan domain kalau formatnya salah (`://` dihapus, tambahin `||` kalau perlu)
+                // Cek kalau domain valid, tambahin `||`
                 const cleanedLine = cleanDomainRule(line);
                 if (cleanedLine) {
                     return `${cleanedLine}${DNS_REWRITE}${DNS_REWRITE_RULE}`;

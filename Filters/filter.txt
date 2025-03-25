@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-25T12:45:17.199Z
+! Last modified: 2025-03-25T13:13:13.268Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -4282,7 +4282,6 @@
 ||afflatebog.top^$dnsrewrite=ad-block.dns.adguard.com
 ||afflictionevilorganized.com^$dnsrewrite=ad-block.dns.adguard.com
 ||afflictionlawcommemorate.com^$dnsrewrite=ad-block.dns.adguard.com
-||affluenceseptember.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affluentarmyequator.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affluentcompere.com^$dnsrewrite=ad-block.dns.adguard.com
 ||affluentretinueelegance.com^$dnsrewrite=ad-block.dns.adguard.com

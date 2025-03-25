@@ -3,10 +3,11 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-25T13:35:54.978Z
+! Last modified: 2025-03-25T18:31:24.538Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||player.gliacloud.com^$dnsrewrite=ad-block.dns.adguard.com
 ||st-n.ads*-adnow.com^
 ||newmedia.az^$dnsrewrite=ad-block.dns.adguard.com
 ||glum-mortgage.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -1198,6 +1199,7 @@
 ||01jud3v55z.com^$dnsrewrite=ad-block.dns.adguard.com
 ||023e6510cc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||0265331.com^$dnsrewrite=ad-block.dns.adguard.com
+||029519cbdc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||0342b40dd6.com^$dnsrewrite=ad-block.dns.adguard.com
 ||03505ed0f4.com^$dnsrewrite=ad-block.dns.adguard.com
 ||03b5f525af.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -4658,6 +4660,7 @@
 ||bergletiphis.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||berkshiretoday.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||berlipurplin.com^$dnsrewrite=ad-block.dns.adguard.com
+||bermestricker.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||berriescourageous.com^$dnsrewrite=ad-block.dns.adguard.com
 ||berryheight.com^$dnsrewrite=ad-block.dns.adguard.com
 ||berryhillfarmgwent.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -9174,6 +9177,7 @@
 ||eluviabattler.com^$dnsrewrite=ad-block.dns.adguard.com
 ||elyandbegantoti.com^$dnsrewrite=ad-block.dns.adguard.com
 ||elytronkantele.shop^$dnsrewrite=ad-block.dns.adguard.com
+||elzcrexsh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||emailflyfunny.com^$dnsrewrite=ad-block.dns.adguard.com
 ||emailon.top^$dnsrewrite=ad-block.dns.adguard.com
 ||emancytal.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -12346,6 +12350,7 @@
 ||hintgroin.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hip-97166b.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hipals.com^$dnsrewrite=ad-block.dns.adguard.com
+||hipanditlastedallth.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hipersushiads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hiphaltlauroyl.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||hipintimacy.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -23511,6 +23516,7 @@
 ||stealneitherfirearm.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stealthlockers.com^$dnsrewrite=ad-block.dns.adguard.com
 ||steamjaws.com^$dnsrewrite=ad-block.dns.adguard.com
+||stedallthrought.com^$dnsrewrite=ad-block.dns.adguard.com
 ||stedrits.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||steeelm.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||steefaulrouy.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -23827,6 +23833,7 @@
 ||suitedtack.com^$dnsrewrite=ad-block.dns.adguard.com
 ||suiteighteen.com^$dnsrewrite=ad-block.dns.adguard.com
 ||sukbeingajoytow.org^$dnsrewrite=ad-block.dns.adguard.com
+||sukspcwrnqpbs.life^$dnsrewrite=ad-block.dns.adguard.com
 ||sukultingecauy.info^$dnsrewrite=ad-block.dns.adguard.com
 ||sukultingecauyuk.org^$dnsrewrite=ad-block.dns.adguard.com
 ||sulfinepaveed.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -27631,6 +27638,7 @@
 ||xszjh.tech^$dnsrewrite=ad-block.dns.adguard.com
 ||xszpuvwr7.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xtalfuwcxh.com^$dnsrewrite=ad-block.dns.adguard.com
+||xtdztyiqyhmet.global^$dnsrewrite=ad-block.dns.adguard.com
 ||xtrackme.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xtraserp.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xtremeserve.xyz^$dnsrewrite=ad-block.dns.adguard.com

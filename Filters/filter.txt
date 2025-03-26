@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-26T12:52:27.287Z
+! Last modified: 2025-03-26T18:31:43.389Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -45130,6 +45130,8 @@
 ||abtrucks-trailers.com^$dnsrewrite=ad-block.dns.adguard.com
 ||acapitalgroup.co^$dnsrewrite=ad-block.dns.adguard.com
 ||acastleinthesun.com^$dnsrewrite=ad-block.dns.adguard.com
+||log.acces-btpanda.com^$dnsrewrite=ad-block.dns.adguard.com
+||acces-gestionparticulier.com^$dnsrewrite=ad-block.dns.adguard.com
 ||acces-personnel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||access-eurnxt.com^$dnsrewrite=ad-block.dns.adguard.com
 ||accessoriesbetter.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -45620,6 +45622,7 @@
 ||arsuperet.live^$dnsrewrite=ad-block.dns.adguard.com
 ||art-impulse.fr^$dnsrewrite=ad-block.dns.adguard.com
 ||art-portrait.de^$dnsrewrite=ad-block.dns.adguard.com
+||artdupatrimoine.com^$dnsrewrite=ad-block.dns.adguard.com
 ||artestaes.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||arti-ava.de^$dnsrewrite=ad-block.dns.adguard.com
 ||artidomo.shop^$dnsrewrite=ad-block.dns.adguard.com
@@ -46626,6 +46629,7 @@
 ||capitalpilots.com^$dnsrewrite=ad-block.dns.adguard.com
 ||capitaltradefx.com^$dnsrewrite=ad-block.dns.adguard.com
 ||capri-charms.com^$dnsrewrite=ad-block.dns.adguard.com
+||capstellar.com^$dnsrewrite=ad-block.dns.adguard.com
 ||captainboot.de^$dnsrewrite=ad-block.dns.adguard.com
 ||caranly.com^$dnsrewrite=ad-block.dns.adguard.com
 ||carasalesm.best^$dnsrewrite=ad-block.dns.adguard.com
@@ -46880,6 +46884,7 @@
 ||discountonline.clearancesales2023.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clearancesurfsale.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clearchoice-investments.com^$dnsrewrite=ad-block.dns.adguard.com
+||clefdupatrimoine.com^$dnsrewrite=ad-block.dns.adguard.com
 ||clematore.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||clementrchrd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cleo-capital.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -48794,6 +48799,7 @@
 ||gastrosabicas.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gatar-trading.de^$dnsrewrite=ad-block.dns.adguard.com
 ||gatar-versand.de^$dnsrewrite=ad-block.dns.adguard.com
+||gateusd.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gatomallde.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||gavriel-kauf.de^$dnsrewrite=ad-block.dns.adguard.com
 ||gazkuch.shop^$dnsrewrite=ad-block.dns.adguard.com
@@ -50044,6 +50050,7 @@
 ||jjctrans.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jjmalibumen.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jkinski.shop^$dnsrewrite=ad-block.dns.adguard.com
+||jmbe-finances.com^$dnsrewrite=ad-block.dns.adguard.com
 ||jnvdarjeeling.com^$dnsrewrite=ad-block.dns.adguard.com
 ||joalpe.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||job-horizon-work.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -52291,6 +52298,7 @@
 ||patagoniapolskasklep.pl^$dnsrewrite=ad-block.dns.adguard.com
 ||patainfel.com^$dnsrewrite=ad-block.dns.adguard.com
 ||patrimoine-partenaires.com^$dnsrewrite=ad-block.dns.adguard.com
+||patrimoinefacile.com^$dnsrewrite=ad-block.dns.adguard.com
 ||patrimoinesolution.com^$dnsrewrite=ad-block.dns.adguard.com
 ||patriziabeni.com^$dnsrewrite=ad-block.dns.adguard.com
 ||paul-joses.de^$dnsrewrite=ad-block.dns.adguard.com

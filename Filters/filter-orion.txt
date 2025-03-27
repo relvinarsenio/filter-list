@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-27T01:48:22.155Z
+! Last modified: 2025-03-27T06:31:53.297Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -29187,7 +29187,6 @@
 ||marketleverage.com^$dnsrewrite=ad-block.dns.adguard.com
 ||marsads.com^$dnsrewrite=ad-block.dns.adguard.com
 ||mcontigo.com^$dnsrewrite=ad-block.dns.adguard.com
-||media.net^$dnsrewrite=ad-block.dns.adguard.com
 ||mediaad.org^$dnsrewrite=ad-block.dns.adguard.com
 ||mediacpm.pl^$dnsrewrite=ad-block.dns.adguard.com
 ||mediaffiliation.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -29645,6 +29644,7 @@
 ||40451343.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||4126fe80.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||42869755.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||4547u5qms0m2um3rrum2wuo.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||45496fee.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||45564736.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||4602306b.xyz^$dnsrewrite=ad-block.dns.adguard.com

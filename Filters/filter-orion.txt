@@ -3,10 +3,11 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-28T12:44:38.982Z
+! Last modified: 2025-03-28T18:32:35.151Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
+||iawbcdohtprwaxg.com^$dnsrewrite=ad-block.dns.adguard.com
 ||iiageq.com^$dnsrewrite=ad-block.dns.adguard.com
 ||splendlddate.com^$dnsrewrite=ad-block.dns.adguard.com
 ||my.pixgallery.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -2978,6 +2979,7 @@
 ||ainouzaudre.net^$dnsrewrite=ad-block.dns.adguard.com
 ||aintydevelelastic.com^$dnsrewrite=ad-block.dns.adguard.com
 ||ainuftou.net^$dnsrewrite=ad-block.dns.adguard.com
+||aiolkyocbiwevv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||aiphotomania.com^$dnsrewrite=ad-block.dns.adguard.com
 ||aipofeem.net^$dnsrewrite=ad-block.dns.adguard.com
 ||aipoufoomsaz.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -11323,6 +11325,7 @@
 ||glokta.info^$dnsrewrite=ad-block.dns.adguard.com
 ||glolsoarti.net^$dnsrewrite=ad-block.dns.adguard.com
 ||gloodsie.com^$dnsrewrite=ad-block.dns.adguard.com
+||gloofeeghiby.net^$dnsrewrite=ad-block.dns.adguard.com
 ||glooftezoad.net^$dnsrewrite=ad-block.dns.adguard.com
 ||gloogruk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||gloohozedoa.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -19613,6 +19616,7 @@
 ||postthieve.com^$dnsrewrite=ad-block.dns.adguard.com
 ||postureunlikeagile.com^$dnsrewrite=ad-block.dns.adguard.com
 ||potailvine.com^$dnsrewrite=ad-block.dns.adguard.com
+||potatoesejection.com^$dnsrewrite=ad-block.dns.adguard.com
 ||potawe.com^$dnsrewrite=ad-block.dns.adguard.com
 ||potedraihouxo.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||potentialapplicationgrate.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -20164,6 +20168,7 @@
 ||ptoorauptoud.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ptootsailrou.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ptootseegle.net^$dnsrewrite=ad-block.dns.adguard.com
+||ptootutseh.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ptouckop.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||ptougeegnep.net^$dnsrewrite=ad-block.dns.adguard.com
 ||ptouglaiksiky.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -24890,6 +24895,7 @@
 ||toforebhut.top^$dnsrewrite=ad-block.dns.adguard.com
 ||togemantedious.top^$dnsrewrite=ad-block.dns.adguard.com
 ||togenron.com^$dnsrewrite=ad-block.dns.adguard.com
+||togerspas.com^$dnsrewrite=ad-block.dns.adguard.com
 ||togetherballroom.com^$dnsrewrite=ad-block.dns.adguard.com
 ||toggledmouton.com^$dnsrewrite=ad-block.dns.adguard.com
 ||toglooman.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -26623,6 +26629,7 @@
 ||vpydjogaytpg.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||vqfumxea.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vqonjcnsl.com^$dnsrewrite=ad-block.dns.adguard.com
+||vqoqlebqqammj.top^$dnsrewrite=ad-block.dns.adguard.com
 ||vqrozzojjlwbz.top^$dnsrewrite=ad-block.dns.adguard.com
 ||vrcvuqtijiwgemi.com^$dnsrewrite=ad-block.dns.adguard.com
 ||vrfuznaicvxaj.life^$dnsrewrite=ad-block.dns.adguard.com
@@ -27093,6 +27100,7 @@
 ||whidsugnoackili.net^$dnsrewrite=ad-block.dns.adguard.com
 ||whilstrorty.com^$dnsrewrite=ad-block.dns.adguard.com
 ||whimmedcaptain.shop^$dnsrewrite=ad-block.dns.adguard.com
+||whimogheshestid.net^$dnsrewrite=ad-block.dns.adguard.com
 ||whimsicalcoat.com^$dnsrewrite=ad-block.dns.adguard.com
 ||whinemalnutrition.com^$dnsrewrite=ad-block.dns.adguard.com
 ||whinsairguglo.net^$dnsrewrite=ad-block.dns.adguard.com
@@ -36076,6 +36084,8 @@
 ||d1udjti6mtxz9q.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
 ||tagman.britishairways.com^$dnsrewrite=ad-block.dns.adguard.com
 |piwik.
+||ms.dzen.ru^$dnsrewrite=ad-block.dns.adguard.com
+||an.mail.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||events-collector-dataplatform.action-media.ru^$dnsrewrite=ad-block.dns.adguard.com
 ||track-events.membrana.media^$dnsrewrite=ad-block.dns.adguard.com
 ||log.strawpoll.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -38821,6 +38831,7 @@
 ||analytics-sprint.qoqa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||analytics.qoqa.ch^$dnsrewrite=ad-block.dns.adguard.com
 ||analytics.qoqa.com^$dnsrewrite=ad-block.dns.adguard.com
+||dynamic-report-api.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||privacy-sandbox.appsflyersdk.com^$dnsrewrite=ad-block.dns.adguard.com
 -pia.appsflyersdk.com^
 -skadsdkless.appsflyersdk.com^

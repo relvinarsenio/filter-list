@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-28T01:48:50.647Z
+! Last modified: 2025-03-28T06:32:12.078Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -29711,6 +29711,7 @@
 ||49709796.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||49766251.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||4afa45f1.xyz^$dnsrewrite=ad-block.dns.adguard.com
+||50873vmk3263-7sk.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||53469662.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||54019033.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||54199287.xyz^$dnsrewrite=ad-block.dns.adguard.com
@@ -36038,6 +36039,7 @@
 ||d1udjti6mtxz9q.cloudfront.net^$dnsrewrite=ad-block.dns.adguard.com
 ||tagman.britishairways.com^$dnsrewrite=ad-block.dns.adguard.com
 |piwik.
+||track-events.membrana.media^$dnsrewrite=ad-block.dns.adguard.com
 ||log.strawpoll.com^$dnsrewrite=ad-block.dns.adguard.com
 ||client.rum.*.amazonaws.com^
 ||tempo-client-metric-prod.s3.amazonaws.com^$dnsrewrite=ad-block.dns.adguard.com

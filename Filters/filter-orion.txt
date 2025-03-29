@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-03-29T12:40:21.149Z
+! Last modified: 2025-03-29T18:28:39.083Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -30661,6 +30661,7 @@
 ||ib.snssdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||xlog.snssdk.com^$dnsrewrite=ad-block.dns.adguard.com
 ||log.snssdk.com^$dnsrewrite=ad-block.dns.adguard.com
+||sayac.net.tr^$dnsrewrite=ad-block.dns.adguard.com
 ||cnstrc.com^$dnsrewrite=ad-block.dns.adguard.com
 ||zineone.com^$dnsrewrite=ad-block.dns.adguard.com
 ||data.emb-api.com^$dnsrewrite=ad-block.dns.adguard.com

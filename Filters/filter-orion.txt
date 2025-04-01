@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-04-01T02:01:11.156Z
+! Last modified: 2025-04-01T06:33:55.422Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -23332,6 +23332,7 @@
 ||thechoansa.com^$dnsrewrite=ad-block.dns.adguard.com
 ||thechronicles2.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||thecoinworsttrack.com^$dnsrewrite=ad-block.dns.adguard.com
+||thecontentserver.com^$dnsrewrite=ad-block.dns.adguard.com
 ||thecoreadv.com^$dnsrewrite=ad-block.dns.adguard.com
 ||theehouho.xyz^$dnsrewrite=ad-block.dns.adguard.com
 ||theekedgleamed.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -41870,7 +41871,6 @@
 ||btcoinpro.com^$dnsrewrite=ad-block.dns.adguard.com
 ||btcswing.com^$dnsrewrite=ad-block.dns.adguard.com
 ||btop24.de^$dnsrewrite=ad-block.dns.adguard.com
-||btvtransport.com^$dnsrewrite=ad-block.dns.adguard.com
 ||buceplantde.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||buchholzs.de^$dnsrewrite=ad-block.dns.adguard.com
 ||buchverlag-scholz.de^$dnsrewrite=ad-block.dns.adguard.com

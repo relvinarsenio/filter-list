@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-04-02T01:50:36.751Z
+! Last modified: 2025-04-02T06:32:07.194Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -41961,6 +41961,7 @@
 ||bruland.store^$dnsrewrite=ad-block.dns.adguard.com
 ||brunateschuhewerksverkauf.de^$dnsrewrite=ad-block.dns.adguard.com
 ||brunetsludmila.com^$dnsrewrite=ad-block.dns.adguard.com
+||bs2best.at^$dnsrewrite=ad-block.dns.adguard.com
 ||bs2site.at^$dnsrewrite=ad-block.dns.adguard.com
 ||bsc-network.de^$dnsrewrite=ad-block.dns.adguard.com
 ||bse-capital.com^$dnsrewrite=ad-block.dns.adguard.com
@@ -42044,6 +42045,7 @@
 ||cambase-berlin.de^$dnsrewrite=ad-block.dns.adguard.com
 ||camelactiveireland.com^$dnsrewrite=ad-block.dns.adguard.com
 ||cameraverse.de^$dnsrewrite=ad-block.dns.adguard.com
+||camion-europeo.co^$dnsrewrite=ad-block.dns.adguard.com
 ||camper-schuhe.at^$dnsrewrite=ad-block.dns.adguard.com
 ||camperschuh.com^$dnsrewrite=ad-block.dns.adguard.com
 ||camperschuhe.at^$dnsrewrite=ad-block.dns.adguard.com
@@ -42233,7 +42235,6 @@
 ||setting.chantevil.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||spade.chantevil.cfd^$dnsrewrite=ad-block.dns.adguard.com
 ||charlinerat.com^$dnsrewrite=ad-block.dns.adguard.com
-||charmadora.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||charmdaily.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chartistake.com^$dnsrewrite=ad-block.dns.adguard.com
 ||chasellsm.click^$dnsrewrite=ad-block.dns.adguard.com
@@ -45055,6 +45056,7 @@
 ||hot-shopping.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hotchillies.shop^$dnsrewrite=ad-block.dns.adguard.com
 ||hotel-brand-promotion.com^$dnsrewrite=ad-block.dns.adguard.com
+||hotel-ds.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hotel-marketing-advertising.com^$dnsrewrite=ad-block.dns.adguard.com
 ||hotelinphuket.net^$dnsrewrite=ad-block.dns.adguard.com
 ||hotels-colombo.com^$dnsrewrite=ad-block.dns.adguard.com

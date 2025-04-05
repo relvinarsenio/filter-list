@@ -5,7 +5,7 @@ const LINE_BREAK = '\n';
 const COMMENT_MARKER = '!';
 const EXCEPTION_MARKER = '@@';
 const DNS_REWRITE = '$dnsrewrite=';
-const DNS_REWRITE_RULE = 'ad-block.dns.adguard.com';
+const DNS_REWRITE_RULE = 'block.noteapp.icu';
 
 // Regex buat validasi domain (wajib diawali huruf/angka & punya TLD)
 const VALID_DOMAIN_REGEX = /^(?:\|\|)?(?::\/\/)?([a-zA-Z0-9][a-zA-Z0-9.-]*\.[a-zA-Z]{2,})\^?$/;

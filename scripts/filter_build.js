@@ -8,8 +8,8 @@ const EXCEPTION_MARKER = '@@';
 const DNS_REWRITE = '$dnsrewrite=';
 const DNS_REWRITE_RULE = 'block.noteapp.icu';
 
-// Pre-compile regex untuk kinerja yang lebih baik
-const VALID_DOMAIN_REGEX = /^(?:\|\|)?(?::\/\/)?([a-zA-Z0-9][a-zA-Z0-9.-]*\.[a-zA-Z]{2,})\^?$/;
+// Regex untuk mendeteksi domain valid dalam filter AdGuard
+const VALID_DOMAIN_REGEX = /^(?:\|\|)?([a-z0-9][-a-z0-9.]*\.[a-z0-9][-a-z0-9]*\.[a-z]{2,}|\.[a-z0-9][-a-z0-9]*\.[a-z]{2,}|[a-z0-9][-a-z0-9]*\.[a-z]{2,})(?:\^)?$/i;
 
 /**
  * Path to the filter file
@@ -20,22 +20,34 @@ const filterPath = path.resolve(process.argv[2]);
 /**
  * Function to clean and normalize domain rules
  * @param {string} line - The line to clean
- * @returns {string | null} - Cleaned domain rule or null if invalid
+ * @returns {string} - Original line or line with added dnsrewrite
  */
 const cleanDomainRule = (line) => {
-    // Optimasi: Cek kondisi yang paling cepat dulu
-    if (line.startsWith(COMMENT_MARKER) || 
-        line.includes(DNS_REWRITE) || 
-        line.startsWith(EXCEPTION_MARKER) ||
-        line.trim() === '') {
-        return line; // Kembalikan tanpa modifikasi
+    // Skip lines that are comments, exceptions, or already have dnsrewrite
+    const trimmedLine = line.trim();
+    if (trimmedLine === '' || 
+        trimmedLine.startsWith(COMMENT_MARKER) || 
+        trimmedLine.startsWith(EXCEPTION_MARKER) ||
+        trimmedLine.includes(DNS_REWRITE)) {
+        return line;
     }
     
-    const match = VALID_DOMAIN_REGEX.exec(line);
+    // Check if it's a valid domain rule
+    const match = VALID_DOMAIN_REGEX.exec(trimmedLine);
     if (match) {
-        return `||${match[1]}^${DNS_REWRITE}${DNS_REWRITE_RULE}`;
+        // If it doesn't start with || and doesn't end with ^, format it properly
+        if (!trimmedLine.startsWith('||')) {
+            return `||${match[1]}^${DNS_REWRITE}${DNS_REWRITE_RULE}`;
+        }
+        // If it has || but no ^, add ^ and DNS rewrite
+        if (!trimmedLine.endsWith('^')) {
+            return `${trimmedLine}^${DNS_REWRITE}${DNS_REWRITE_RULE}`;
+        }
+        // If it's already in the format ||domain^, just add DNS rewrite
+        return `${trimmedLine}${DNS_REWRITE}${DNS_REWRITE_RULE}`;
     }
-    return line; // Biarkan tanpa perubahan kalau bukan domain valid
+    
+    return line; // Return original line if it's not a valid domain
 };
 
 /**

@@ -9,7 +9,7 @@ const DNS_REWRITE = '$dnsrewrite=';
 const DNS_REWRITE_RULE = 'block.noteapp.icu';
 
 // Regex untuk mendeteksi domain valid dalam filter AdGuard
-const VALID_DOMAIN_REGEX = /^(?:\|\|)?([a-z0-9][-a-z0-9.]*\.[a-z0-9][-a-z0-9]*\.[a-z]{2,}|\.[a-z0-9][-a-z0-9]*\.[a-z]{2,}|[a-z0-9][-a-z0-9]*\.[a-z]{2,})(?:\^)?$/i;
+const VALID_DOMAIN_REGEX = /^(?:\|\||\:\/\/)?([a-z0-9][-a-z0-9.*]*(?:\.[-a-z0-9.*]+)*\.[a-z]{2,})(?:\^)?$/i;
 
 /**
  * Path to the filter file

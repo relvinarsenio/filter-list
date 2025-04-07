@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-04-07T17:33:57.389Z
+! Last modified: 2025-04-07T17:45:13.822Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -568,8 +568,8 @@
 ||biggestplayer.cachefly.net^$dnsrewrite=block.noteapp.icu
 ||pvrtx.net^$dnsrewrite=block.noteapp.icu
 ||checkhit.com^$dnsrewrite=block.noteapp.icu
-.bbelements.com^
-.doublepimp.com^
+||.bbelements.com^$dnsrewrite=block.noteapp.icu
+||.doublepimp.com^$dnsrewrite=block.noteapp.icu
 ||1100ad.com^$dnsrewrite=block.noteapp.icu
 ||2performant.com^$dnsrewrite=block.noteapp.icu
 ||adamoads.com^$dnsrewrite=block.noteapp.icu
@@ -1137,7 +1137,7 @@
 ||omine.org^$dnsrewrite=block.noteapp.icu
 ||tercabilis.info^$dnsrewrite=block.noteapp.icu
 ||statdynamic.com^$dnsrewrite=block.noteapp.icu
-||mine.torrent.pw^$dnsrewrite=block.noteapp.icu
+://mine.torrent.pw^
 ||hostingcloud.*.wasm^
 ||cashbeet.com^$dnsrewrite=block.noteapp.icu
 ||pampopholf.com^$dnsrewrite=block.noteapp.icu
@@ -31222,7 +31222,7 @@
 ||adflake.com^$dnsrewrite=block.noteapp.icu
 ||ads.aitype.net^$dnsrewrite=block.noteapp.icu
 ||ad-creatives-public.commondatastorage.googleapis.com^$dnsrewrite=block.noteapp.icu
-||o0e.ru^$dnsrewrite=block.noteapp.icu
+://o0e.ru^
 ||1mp.mobi^$dnsrewrite=block.noteapp.icu
 ||247realmedia.com^$dnsrewrite=block.noteapp.icu
 ||abtest.swrve.com^$dnsrewrite=block.noteapp.icu
@@ -31519,7 +31519,7 @@
 ||clickguard.com^$dnsrewrite=block.noteapp.icu
 ||ct.beslist.nl^$dnsrewrite=block.noteapp.icu
 ||tvpixel.com^$dnsrewrite=block.noteapp.icu
-.tvp.tv^
+||.tvp.tv^$dnsrewrite=block.noteapp.icu
 ||analytics.sve.cc^$dnsrewrite=block.noteapp.icu
 ||api.taboola.sve.cc^$dnsrewrite=block.noteapp.icu
 ||identitypxl.app^$dnsrewrite=block.noteapp.icu
@@ -33096,7 +33096,7 @@
 ||interakt.ru^$dnsrewrite=block.noteapp.icu
 ||dmpcloud.net^$dnsrewrite=block.noteapp.icu
 ||tanidigital.com^$dnsrewrite=block.noteapp.icu
-||tru.am^$dnsrewrite=block.noteapp.icu
+://tru.am^
 ||0emm.com^$dnsrewrite=block.noteapp.icu
 ||0stats.com^$dnsrewrite=block.noteapp.icu
 ||1-cl0ud.com^$dnsrewrite=block.noteapp.icu
@@ -35062,7 +35062,7 @@
 ||luminati.io^$dnsrewrite=block.noteapp.icu
 ||visilabs.com^$dnsrewrite=block.noteapp.icu
 ||visilabs.net^$dnsrewrite=block.noteapp.icu
-.ay.delivery^
+||.ay.delivery^$dnsrewrite=block.noteapp.icu
 ||location.cyou^$dnsrewrite=block.noteapp.icu
 ||mymap.icu^$dnsrewrite=block.noteapp.icu
 ||mymap.quest^$dnsrewrite=block.noteapp.icu
@@ -35184,7 +35184,7 @@
 ||trekkww.space^$dnsrewrite=block.noteapp.icu
 ||trekkeeee.space^$dnsrewrite=block.noteapp.icu
 ||trekkww.fun^$dnsrewrite=block.noteapp.icu
-.stape.net
+||.stape.net^$dnsrewrite=block.noteapp.icu
 |load.gtm.
 |load.sgtm.
 |load.ss.
@@ -36308,7 +36308,7 @@
 ||d90z5o386dhs7.cloudfront.net^$dnsrewrite=block.noteapp.icu
 ||events.mercadolibre.com^$dnsrewrite=block.noteapp.icu
 ||x.sexhd.pics^$dnsrewrite=block.noteapp.icu
-||r.i.ua^$dnsrewrite=block.noteapp.icu
+://r.i.ua^
 ||1l-hit.mail.ru^$dnsrewrite=block.noteapp.icu
 ||gtm.eduki.com^$dnsrewrite=block.noteapp.icu
 ||6pal.consobaby.com^$dnsrewrite=block.noteapp.icu

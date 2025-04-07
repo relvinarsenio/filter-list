@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-04-07T17:33:50.034Z
+! Last modified: 2025-04-07T17:45:07.707Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -44176,7 +44176,7 @@
 ||eu-ad.sam4m.com^$dnsrewrite=block.noteapp.icu
 ||config.appjolt.com^$dnsrewrite=block.noteapp.icu
 ||ads.aitype.net^$dnsrewrite=block.noteapp.icu
-||o0e.ru^$dnsrewrite=block.noteapp.icu
+://o0e.ru^
 ||247realmedia.com^$dnsrewrite=block.noteapp.icu
 ||abnad.net^$dnsrewrite=block.noteapp.icu
 ||ad*.nexage.com^

@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-04-12T12:40:37.609Z
+! Last modified: 2025-04-12T18:28:41.841Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -30322,7 +30322,6 @@
 ||splash-ad.classting.com^$dnsrewrite=block.noteapp.icu
 ||ad-files.classting.com^$dnsrewrite=block.noteapp.icu
 ||v16-ad.byteoversea.com^$dnsrewrite=block.noteapp.icu
-||vs-api.voodoo-tech.io^$dnsrewrite=block.noteapp.icu
 ||psvpromo.psvgamestudio.com^$dnsrewrite=block.noteapp.icu
 -adx-*.rayjump.com^
 ||static.timetreeads.com^$dnsrewrite=block.noteapp.icu

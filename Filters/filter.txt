@@ -3,7 +3,7 @@
 ! Description: Blocks ads, trackers, malware, internet scams, and online threats with optimized DNS-level
 ! Homepage: https://github.com/relvinarsenio/filter-list
 ! License: https://github.com/relvinarsenio/filter-list/blob/main/LICENSE
-! Last modified: 2025-05-13T12:51:00.830Z
+! Last modified: 2025-05-13T18:32:20.087Z
 !
 ! Compiled by @adguard/hostlist-compiler v1.0.35
 !
@@ -233,6 +233,7 @@
 ||12signup.com^$dnsrewrite=block.noteapp.icu
 ||12u.info^$dnsrewrite=block.noteapp.icu
 ||12xhardcore.com^$dnsrewrite=block.noteapp.icu
+||1308524015.rsc.cdn77.org^$dnsrewrite=block.noteapp.icu
 ||130gelh8q.de^$dnsrewrite=block.noteapp.icu
 ||13199960a1.com^$dnsrewrite=block.noteapp.icu
 ||132ffebe8c.com^$dnsrewrite=block.noteapp.icu
@@ -252,6 +253,7 @@
 ||14202444.xyz^$dnsrewrite=block.noteapp.icu
 ||1437953666.rsc.cdn77.org^$dnsrewrite=block.noteapp.icu
 ||14381834.xyz^$dnsrewrite=block.noteapp.icu
+||1482760194.rsc.cdn77.org^$dnsrewrite=block.noteapp.icu
 ||148dfe140d0f3d5e.com^$dnsrewrite=block.noteapp.icu
 ||14cpoff22.de^$dnsrewrite=block.noteapp.icu
 ||14fefmsjd.de^$dnsrewrite=block.noteapp.icu
@@ -298,7 +300,6 @@
 ||182e8ffa40.5b9c4c545d.com^$dnsrewrite=block.noteapp.icu
 ||1835.url25fatm.com^$dnsrewrite=block.noteapp.icu
 ||184c4i95p.de^$dnsrewrite=block.noteapp.icu
-||1851495959.rsc.cdn77.org^$dnsrewrite=block.noteapp.icu
 ||1873083787.rsc.cdn77.org^$dnsrewrite=block.noteapp.icu
 ||18744.com^$dnsrewrite=block.noteapp.icu
 ||189zx.com^$dnsrewrite=block.noteapp.icu
@@ -2228,6 +2229,7 @@
 ||ackcdn.net^$dnsrewrite=block.noteapp.icu
 ||acknowledgecalculated.com^$dnsrewrite=block.noteapp.icu
 ||acknowledgedversionbosom.com^$dnsrewrite=block.noteapp.icu
+||acktrsznzeubr.one^$dnsrewrite=block.noteapp.icu
 ||aclickads.com^$dnsrewrite=block.noteapp.icu
 ||aclog.itmedia.co.jp^$dnsrewrite=block.noteapp.icu
 ||aclpitquxfad.com^$dnsrewrite=block.noteapp.icu
@@ -4149,6 +4151,7 @@
 ||aesthetise.com^$dnsrewrite=block.noteapp.icu
 ||aeuiazspafmbu.com^$dnsrewrite=block.noteapp.icu
 ||af-ad.co.uk^$dnsrewrite=block.noteapp.icu
+||af.click.ru^$dnsrewrite=block.noteapp.icu
 ||af043ebde4.10a03eb82c.com^$dnsrewrite=block.noteapp.icu
 ||af30ee9e36.com^$dnsrewrite=block.noteapp.icu
 ||af5b2ff170.e3aa58c849.com^$dnsrewrite=block.noteapp.icu
@@ -4238,7 +4241,6 @@
 ||affiliatetracking.com^$dnsrewrite=block.noteapp.icu
 ||affiliatetracking.net^$dnsrewrite=block.noteapp.icu
 ||affiliatewindow.com^$dnsrewrite=block.noteapp.icu
-||affiliation-france.com^$dnsrewrite=block.noteapp.icu
 ||affiliation.porn.fr^$dnsrewrite=block.noteapp.icu
 ||affiliationv4.porn.fr^$dnsrewrite=block.noteapp.icu
 ||affilijack.de^$dnsrewrite=block.noteapp.icu
@@ -4606,7 +4608,6 @@
 ||aklmjylwvkryr.top^$dnsrewrite=block.noteapp.icu
 ||akmxts.com^$dnsrewrite=block.noteapp.icu
 ||akn.analytics.autodesk.com^$dnsrewrite=block.noteapp.icu
-||akoo0513uis.com^$dnsrewrite=block.noteapp.icu
 ||aksazkxmiopf.com^$dnsrewrite=block.noteapp.icu
 ||aksb-a.akamaihd.net^$dnsrewrite=block.noteapp.icu
 ||aksonural.ru^$dnsrewrite=block.noteapp.icu
@@ -4623,7 +4624,6 @@
 ||akxlkuodmhta.com^$dnsrewrite=block.noteapp.icu
 ||akxopgjuw.com^$dnsrewrite=block.noteapp.icu
 ||akzawlykqleew.top^$dnsrewrite=block.noteapp.icu
-||akzawlyyllyew.top^$dnsrewrite=block.noteapp.icu
 ||al-adtech.com^$dnsrewrite=block.noteapp.icu
 ||al.newxue.com^$dnsrewrite=block.noteapp.icu
 ||al3abkisses.com^$dnsrewrite=block.noteapp.icu
@@ -4689,6 +4689,7 @@
 ||alesrepreswsenta.com^$dnsrewrite=block.noteapp.icu
 ||alessandraleone.com^$dnsrewrite=block.noteapp.icu
 ||aletrenhegenmi.com^$dnsrewrite=block.noteapp.icu
+||alexa-hybrid-interaction-log-config-prod-na.s3.amazonaws.com^$dnsrewrite=block.noteapp.icu
 ||alexa-mobile-analytics-configuration-prod.s3.amazonaws.com^$dnsrewrite=block.noteapp.icu
 ||alexa-sitestats.s3.amazonaws.com^$dnsrewrite=block.noteapp.icu
 ||alexabyte.site^$dnsrewrite=block.noteapp.icu
@@ -5045,6 +5046,7 @@
 ||ammfajfmyowm.com^$dnsrewrite=block.noteapp.icu
 ||ammgryhcyk.com^$dnsrewrite=block.noteapp.icu
 ||ammkicqit.com^$dnsrewrite=block.noteapp.icu
+||ammpslnzeuutn.com^$dnsrewrite=block.noteapp.icu
 ||amnestygall.com^$dnsrewrite=block.noteapp.icu
 ||amnestyhailstone.com^$dnsrewrite=block.noteapp.icu
 ||amnionprunted.click^$dnsrewrite=block.noteapp.icu
@@ -5403,6 +5405,7 @@
 ||analytics.liveact.cri-mw.jp^$dnsrewrite=block.noteapp.icu
 ||analytics.livestream.com^$dnsrewrite=block.noteapp.icu
 ||analytics.lunaweb.cloud^$dnsrewrite=block.noteapp.icu
+||analytics.ly200.com^$dnsrewrite=block.noteapp.icu
 ||analytics.m7g.twitch.tv^$dnsrewrite=block.noteapp.icu
 ||analytics.maikel.pro^$dnsrewrite=block.noteapp.icu
 ||analytics.maileon.com^$dnsrewrite=block.noteapp.icu
@@ -5906,6 +5909,7 @@
 ||api.ad.logic-prod.viasat.io^$dnsrewrite=block.noteapp.icu
 ||api.ad.logic-test.viasat.io^$dnsrewrite=block.noteapp.icu
 ||api.ad.logic.viasat.io^$dnsrewrite=block.noteapp.icu
+||api.adaether.com^$dnsrewrite=block.noteapp.icu
 ||api.adbility-media.com^$dnsrewrite=block.noteapp.icu
 ||api.adnation.com^$dnsrewrite=block.noteapp.icu
 ||api.ads.newsdigest.jp^$dnsrewrite=block.noteapp.icu
@@ -6363,7 +6367,6 @@
 ||arvigorothan.com^$dnsrewrite=block.noteapp.icu
 ||arvyxowwcay.com^$dnsrewrite=block.noteapp.icu
 ||arwobaton.com^$dnsrewrite=block.noteapp.icu
-||arxucrkpbihahy.com^$dnsrewrite=block.noteapp.icu
 ||aryici.xyz^$dnsrewrite=block.noteapp.icu
 ||as.adfonic.net^$dnsrewrite=block.noteapp.icu
 ||as.chartsurfer.de^$dnsrewrite=block.noteapp.icu
@@ -6611,7 +6614,6 @@
 ||at.prod.jimdo.systems^$dnsrewrite=block.noteapp.icu
 ||atabekdoubly.top^$dnsrewrite=block.noteapp.icu
 ||atableofcup.com^$dnsrewrite=block.noteapp.icu
-||ataccwpdiqqnfl.com^$dnsrewrite=block.noteapp.icu
 ||atacticlinkier.shop^$dnsrewrite=block.noteapp.icu
 ||atadsoalsuget.net^$dnsrewrite=block.noteapp.icu
 ||ataiyalstrays.com^$dnsrewrite=block.noteapp.icu
@@ -7345,7 +7347,6 @@
 ||banana.le.com^$dnsrewrite=block.noteapp.icu
 ||banawgaht.com^$dnsrewrite=block.noteapp.icu
 ||bance.jp^$dnsrewrite=block.noteapp.icu
-||bancosviage.top^$dnsrewrite=block.noteapp.icu
 ||bandageretaliateemail.com^$dnsrewrite=block.noteapp.icu
 ||bandanamarhala.top^$dnsrewrite=block.noteapp.icu
 ||banddisordergraceless.com^$dnsrewrite=block.noteapp.icu
@@ -7495,7 +7496,6 @@
 ||baptismfortune.com^$dnsrewrite=block.noteapp.icu
 ||baptizespadeaccompanying.com^$dnsrewrite=block.noteapp.icu
 ||barbarasacredassort.com^$dnsrewrite=block.noteapp.icu
-||barbetsnervure.top^$dnsrewrite=block.noteapp.icu
 ||barbulerenigs.shop^$dnsrewrite=block.noteapp.icu
 ||bardatm.ru^$dnsrewrite=block.noteapp.icu
 ||bardicjazzed.com^$dnsrewrite=block.noteapp.icu
@@ -7922,6 +7922,7 @@
 ||beqcoabc.com^$dnsrewrite=block.noteapp.icu
 ||berapt-medii.com^$dnsrewrite=block.noteapp.icu
 ||bereandevils.com^$dnsrewrite=block.noteapp.icu
+||bereanreboast.shop^$dnsrewrite=block.noteapp.icu
 ||bereaveconsciousscuffle.com^$dnsrewrite=block.noteapp.icu
 ||bereaveencodefestive.com^$dnsrewrite=block.noteapp.icu
 ||bereaveundresscrowded.com^$dnsrewrite=block.noteapp.icu
@@ -8077,7 +8078,6 @@
 ||bhaoea.cn^$dnsrewrite=block.noteapp.icu
 ||bhclicks.com^$dnsrewrite=block.noteapp.icu
 ||bhddjf.top^$dnsrewrite=block.noteapp.icu
-||bhdnti.top^$dnsrewrite=block.noteapp.icu
 ||bhigziaww.com^$dnsrewrite=block.noteapp.icu
 ||bhlph.com^$dnsrewrite=block.noteapp.icu
 ||bhohazozps.com^$dnsrewrite=block.noteapp.icu
@@ -8357,7 +8357,6 @@
 ||blocksly.org^$dnsrewrite=block.noteapp.icu
 ||blogads.com^$dnsrewrite=block.noteapp.icu
 ||blogcounter.de^$dnsrewrite=block.noteapp.icu
-||bloggerex.com^$dnsrewrite=block.noteapp.icu
 ||bloggiamgia.info^$dnsrewrite=block.noteapp.icu
 ||blogostock.com^$dnsrewrite=block.noteapp.icu
 ||blogrush.com^$dnsrewrite=block.noteapp.icu
@@ -9731,7 +9730,6 @@
 ||cbdedibles.site^$dnsrewrite=block.noteapp.icu
 ||cbdm.weathercn.com^$dnsrewrite=block.noteapp.icu
 ||cbfe992d85.9ac24ce7ee.com^$dnsrewrite=block.noteapp.icu
-||cbfmoeam.com^$dnsrewrite=block.noteapp.icu
 ||cbjs.baidu.com^$dnsrewrite=block.noteapp.icu
 ||cbmall.com^$dnsrewrite=block.noteapp.icu
 ||cc.8181zx.com^$dnsrewrite=block.noteapp.icu
@@ -9769,7 +9767,6 @@
 ||cd828.com^$dnsrewrite=block.noteapp.icu
 ||cda7k-ddok.com^$dnsrewrite=block.noteapp.icu
 ||cdb670d960.com^$dnsrewrite=block.noteapp.icu
-||cdccdvxbght.com^$dnsrewrite=block.noteapp.icu
 ||cdceed.de^$dnsrewrite=block.noteapp.icu
 ||cdctwm.com^$dnsrewrite=block.noteapp.icu
 ||cddtsecure.com^$dnsrewrite=block.noteapp.icu
@@ -10012,7 +10009,6 @@
 ||cegloockoar.com^$dnsrewrite=block.noteapp.icu
 ||ceibawhirled.top^$dnsrewrite=block.noteapp.icu
 ||cekgsyc.com^$dnsrewrite=block.noteapp.icu
-||ceklcxte.com^$dnsrewrite=block.noteapp.icu
 ||celai.site^$dnsrewrite=block.noteapp.icu
 ||celeb-ads.com^$dnsrewrite=block.noteapp.icu
 ||celeb-trending.com^$dnsrewrite=block.noteapp.icu
@@ -10116,7 +10112,6 @@
 ||cgicounter.onlinehome.de^$dnsrewrite=block.noteapp.icu
 ||cgicounter.puretec.de^$dnsrewrite=block.noteapp.icu
 ||cgjowhzaneoli.love^$dnsrewrite=block.noteapp.icu
-||cgpnhjatakwqnjd.xyz^$dnsrewrite=block.noteapp.icu
 ||cgtwccqrpbota.global^$dnsrewrite=block.noteapp.icu
 ||cgtwpoayhmqi.online^$dnsrewrite=block.noteapp.icu
 ||ch6p2aj2gh8zy5cm0px9ow7aj3tmzhtk6lzx2ch9xj7gx2jq1cj8v4jklz6b.me^$dnsrewrite=block.noteapp.icu
@@ -10199,7 +10194,6 @@
 ||cheapenleaving.com^$dnsrewrite=block.noteapp.icu
 ||cheapererred.click^$dnsrewrite=block.noteapp.icu
 ||cheatingagricultural.com^$dnsrewrite=block.noteapp.icu
-||chebogfink.com^$dnsrewrite=block.noteapp.icu
 ||checbox.cc^$dnsrewrite=block.noteapp.icu
 ||check-now.online^$dnsrewrite=block.noteapp.icu
 ||check-tl-ver-154-1.com^$dnsrewrite=block.noteapp.icu
@@ -11633,6 +11627,7 @@
 ||count.yandeg.ru^$dnsrewrite=block.noteapp.icu
 ||countabledawdlerunaudited.com^$dnsrewrite=block.noteapp.icu
 ||counted.com^$dnsrewrite=block.noteapp.icu
+||counter-mdpr.freetls.fastly.net^$dnsrewrite=block.noteapp.icu
 ||counter.1gb.ru^$dnsrewrite=block.noteapp.icu
 ||counter.1i.kz^$dnsrewrite=block.noteapp.icu
 ||counter.24h.com.vn^$dnsrewrite=block.noteapp.icu
@@ -11751,6 +11746,7 @@
 ||cpaway.com^$dnsrewrite=block.noteapp.icu
 ||cpays.com^$dnsrewrite=block.noteapp.icu
 ||cpcmart.com^$dnsrewrite=block.noteapp.icu
+||cpfqsubp.com^$dnsrewrite=block.noteapp.icu
 ||cplayer.pw^$dnsrewrite=block.noteapp.icu
 ||cpm-ad.com^$dnsrewrite=block.noteapp.icu
 ||cpm.adgebra.co^$dnsrewrite=block.noteapp.icu
@@ -12257,7 +12253,6 @@
 ||cuzrkugucdu.com^$dnsrewrite=block.noteapp.icu
 ||cv-tracker.stanby.com^$dnsrewrite=block.noteapp.icu
 ||cv.bentsdiorism.com^$dnsrewrite=block.noteapp.icu
-||cvehbcrq.com^$dnsrewrite=block.noteapp.icu
 ||cvfuyogxbcweq.tech^$dnsrewrite=block.noteapp.icu
 ||cvgto-akmk.fun^$dnsrewrite=block.noteapp.icu
 ||cvkloyexkinekp.com^$dnsrewrite=block.noteapp.icu
@@ -12278,6 +12273,7 @@
 ||cxmolk.com^$dnsrewrite=block.noteapp.icu
 ||cxsh.cn.com^$dnsrewrite=block.noteapp.icu
 ||cxuapz.xyz^$dnsrewrite=block.noteapp.icu
+||cxwsdhxoiio.com^$dnsrewrite=block.noteapp.icu
 ||cxy88.friok.com^$dnsrewrite=block.noteapp.icu
 ||cyamidfenbank.life^$dnsrewrite=block.noteapp.icu
 ||cyan92010.com^$dnsrewrite=block.noteapp.icu
@@ -14243,7 +14239,6 @@
 ||desgao1zt7irn.cloudfront.net^$dnsrewrite=block.noteapp.icu
 ||desgolurkom.com^$dnsrewrite=block.noteapp.icu
 ||deshelioptiletor.com^$dnsrewrite=block.noteapp.icu
-||designernoise.com^$dnsrewrite=block.noteapp.icu
 ||designeropened.com^$dnsrewrite=block.noteapp.icu
 ||designingbadlyhinder.com^$dnsrewrite=block.noteapp.icu
 ||designingpupilintermediary.com^$dnsrewrite=block.noteapp.icu
@@ -14692,7 +14687,6 @@
 ||dkm6b5q0h53z4.cloudfront.net^$dnsrewrite=block.noteapp.icu
 ||dknnlu3s1bnz7.cloudfront.net^$dnsrewrite=block.noteapp.icu
 ||dkpvbyvscxraq.space^$dnsrewrite=block.noteapp.icu
-||dkqixcsaaprfit.com^$dnsrewrite=block.noteapp.icu
 ||dkrbus.com^$dnsrewrite=block.noteapp.icu
 ||dkre4lyk6a9bt.cloudfront.net^$dnsrewrite=block.noteapp.icu
 ||dkswshap-3.online^$dnsrewrite=block.noteapp.icu
@@ -14873,6 +14867,7 @@
 ||dogrotleer.com^$dnsrewrite=block.noteapp.icu
 ||dogt.xyz^$dnsrewrite=block.noteapp.icu
 ||dogwrite.com^$dnsrewrite=block.noteapp.icu
+||doh.cq0.co^$dnsrewrite=block.noteapp.icu
 ||doigtangles.click^$dnsrewrite=block.noteapp.icu
 ||doinntz6jwzoh.cloudfront.net^$dnsrewrite=block.noteapp.icu
 ||doitsecthyma.shop^$dnsrewrite=block.noteapp.icu
@@ -15422,7 +15417,6 @@
 ||dwhfqyafsct.com^$dnsrewrite=block.noteapp.icu
 ||dwlbcrqchdv.com^$dnsrewrite=block.noteapp.icu
 ||dwnm2295blvjq.cloudfront.net^$dnsrewrite=block.noteapp.icu
-||dwouxrufulchwar.com^$dnsrewrite=block.noteapp.icu
 ||dwr3zytn850g.cloudfront.net^$dnsrewrite=block.noteapp.icu
 ||dx.mountain.com^$dnsrewrite=block.noteapp.icu
 ||dx07zxwt.pro^$dnsrewrite=block.noteapp.icu
@@ -15666,7 +15660,6 @@
 ||easy-love-zone.com^$dnsrewrite=block.noteapp.icu
 ||easy.au.ru^$dnsrewrite=block.noteapp.icu
 ||easy2cnjuh34jb.com^$dnsrewrite=block.noteapp.icu
-||easyaccess.mobi^$dnsrewrite=block.noteapp.icu
 ||easyad.com^$dnsrewrite=block.noteapp.icu
 ||easyads28.mobi^$dnsrewrite=block.noteapp.icu
 ||easyads28.pro^$dnsrewrite=block.noteapp.icu
@@ -16083,12 +16076,12 @@
 ||emissionidiompolygon.com^$dnsrewrite=block.noteapp.icu
 ||emitlavas.click^$dnsrewrite=block.noteapp.icu
 ||emittediodids.top^$dnsrewrite=block.noteapp.icu
-||emittedstratal.com^$dnsrewrite=block.noteapp.icu
 ||emjrwypl.xyz^$dnsrewrite=block.noteapp.icu
 ||emjs.mkzhan.com^$dnsrewrite=block.noteapp.icu
 ||emkarto.fun^$dnsrewrite=block.noteapp.icu
 ||emlifok.info^$dnsrewrite=block.noteapp.icu
 ||emmi-findet.de^$dnsrewrite=block.noteapp.icu
+||emopqyqdoepnf.buzz^$dnsrewrite=block.noteapp.icu
 ||empaleintone.shop^$dnsrewrite=block.noteapp.icu
 ||empalerposit.com^$dnsrewrite=block.noteapp.icu
 ||empirecdn.io^$dnsrewrite=block.noteapp.icu
@@ -16335,7 +16328,6 @@
 ||erosionyonderviolate.com^$dnsrewrite=block.noteapp.icu
 ||erosyndc.com^$dnsrewrite=block.noteapp.icu
 ||erovation.com^$dnsrewrite=block.noteapp.icu
-||erqhabrsfqxw.com^$dnsrewrite=block.noteapp.icu
 ||erqtga.xyz^$dnsrewrite=block.noteapp.icu
 ||erranddealing.com^$dnsrewrite=block.noteapp.icu
 ||errantstetrole.com^$dnsrewrite=block.noteapp.icu
@@ -16347,7 +16339,6 @@
 ||errorpalpatesake.com^$dnsrewrite=block.noteapp.icu
 ||errors.house^$dnsrewrite=block.noteapp.icu
 ||errors.snackly.co^$dnsrewrite=block.noteapp.icu
-||ersgaxbmd.xyz^$dnsrewrite=block.noteapp.icu
 ||ershniff.com^$dnsrewrite=block.noteapp.icu
 ||ersislaqands.com^$dnsrewrite=block.noteapp.icu
 ||ertainoutweile.org^$dnsrewrite=block.noteapp.icu
@@ -17498,6 +17489,7 @@
 ||filthnair.click^$dnsrewrite=block.noteapp.icu
 ||filthybudget.com^$dnsrewrite=block.noteapp.icu
 ||filthygracefulspinach.com^$dnsrewrite=block.noteapp.icu
+||filthyrankscuffle.com^$dnsrewrite=block.noteapp.icu
 ||filthysignpod.com^$dnsrewrite=block.noteapp.icu
 ||fimserve.com^$dnsrewrite=block.noteapp.icu
 ||fin.ovh^$dnsrewrite=block.noteapp.icu
@@ -17707,7 +17699,6 @@
 ||flowers.moex.com^$dnsrewrite=block.noteapp.icu
 ||flowgo.com^$dnsrewrite=block.noteapp.icu
 ||flowhot.info^$dnsrewrite=block.noteapp.icu
-||flowitchdoctrine.com^$dnsrewrite=block.noteapp.icu
 ||flowln.com^$dnsrewrite=block.noteapp.icu
 ||flowsearch.info^$dnsrewrite=block.noteapp.icu
 ||flowwiththetide.xyz^$dnsrewrite=block.noteapp.icu
@@ -18021,7 +18012,6 @@
 ||freelogs.com^$dnsrewrite=block.noteapp.icu
 ||freepay.com^$dnsrewrite=block.noteapp.icu
 ||freepopnews.skin^$dnsrewrite=block.noteapp.icu
-||freesoftwarelive.com^$dnsrewrite=block.noteapp.icu
 ||freestar.io^$dnsrewrite=block.noteapp.icu
 ||freestats.com^$dnsrewrite=block.noteapp.icu
 ||freestats.tv^$dnsrewrite=block.noteapp.icu
@@ -18516,7 +18506,6 @@
 ||gdl.i9dhjx.ru^$dnsrewrite=block.noteapp.icu
 ||gdl.zmqdez.ru^$dnsrewrite=block.noteapp.icu
 ||gdlhwcdjtqkjqcj.com^$dnsrewrite=block.noteapp.icu
-||gdliuymvftdwvm.xyz^$dnsrewrite=block.noteapp.icu
 ||gdm1.toner.fr^$dnsrewrite=block.noteapp.icu
 ||gdmconvtrck.com^$dnsrewrite=block.noteapp.icu
 ||gdmgsecure.com^$dnsrewrite=block.noteapp.icu
@@ -19106,7 +19095,6 @@
 ||goaciptu.net^$dnsrewrite=block.noteapp.icu
 ||goads.pro^$dnsrewrite=block.noteapp.icu
 ||goadx.com^$dnsrewrite=block.noteapp.icu
-||goalfirework.com^$dnsrewrite=block.noteapp.icu
 ||goallbest.com^$dnsrewrite=block.noteapp.icu
 ||goapoachowoovol.net^$dnsrewrite=block.noteapp.icu
 ||goaptaideeshi.com^$dnsrewrite=block.noteapp.icu
@@ -19278,7 +19266,6 @@
 ||gpcrn.com^$dnsrewrite=block.noteapp.icu
 ||gpibcoogfb.com^$dnsrewrite=block.noteapp.icu
 ||gpickufi.com^$dnsrewrite=block.noteapp.icu
-||gplansforourcom.com^$dnsrewrite=block.noteapp.icu
 ||gplywfirosiwd.one^$dnsrewrite=block.noteapp.icu
 ||gpm-mon-sg.bytegsdk.com^$dnsrewrite=block.noteapp.icu
 ||gpm-mon-sg.byteoversea.com^$dnsrewrite=block.noteapp.icu
@@ -19293,7 +19280,6 @@
 ||gqckjiewg.com^$dnsrewrite=block.noteapp.icu
 ||gqfuf.com^$dnsrewrite=block.noteapp.icu
 ||gqjdweqs.com^$dnsrewrite=block.noteapp.icu
-||gqmacifyutqtx.xyz^$dnsrewrite=block.noteapp.icu
 ||gqnfkfrunjxdw.world^$dnsrewrite=block.noteapp.icu
 ||gr.hdream.cfd^$dnsrewrite=block.noteapp.icu
 ||grabmannipmuc.top^$dnsrewrite=block.noteapp.icu
@@ -19435,6 +19421,7 @@
 ||gricechupon.top^$dnsrewrite=block.noteapp.icu
 ||gridder.co^$dnsrewrite=block.noteapp.icu
 ||gridedloamily.top^$dnsrewrite=block.noteapp.icu
+||gridehornyidentifier.com^$dnsrewrite=block.noteapp.icu
 ||gridrelay27.co^$dnsrewrite=block.noteapp.icu
 ||grifanme.com^$dnsrewrite=block.noteapp.icu
 ||griftedhindoo.com^$dnsrewrite=block.noteapp.icu
@@ -20090,7 +20077,6 @@
 ||heedmicroscope.com^$dnsrewrite=block.noteapp.icu
 ||heefothust.net^$dnsrewrite=block.noteapp.icu
 ||heejuchee.net^$dnsrewrite=block.noteapp.icu
-||heelsmerger.com^$dnsrewrite=block.noteapp.icu
 ||heezyfreefd.click^$dnsrewrite=block.noteapp.icu
 ||heflewrounda.org^$dnsrewrite=block.noteapp.icu
 ||heflewroundandr.com^$dnsrewrite=block.noteapp.icu
@@ -20262,7 +20248,6 @@
 ||hide.ovh^$dnsrewrite=block.noteapp.icu
 ||hideousunbaked.shop^$dnsrewrite=block.noteapp.icu
 ||hidgfbsitnc.fun^$dnsrewrite=block.noteapp.icu
-||hidgttxnces.com^$dnsrewrite=block.noteapp.icu
 ||hidingenious.com^$dnsrewrite=block.noteapp.icu
 ||hidlessonana.com^$dnsrewrite=block.noteapp.icu
 ||highconvertingformats.com^$dnsrewrite=block.noteapp.icu
@@ -20404,7 +20389,6 @@
 ||hivorltuk.com^$dnsrewrite=block.noteapp.icu
 ||hixsutkzy.com^$dnsrewrite=block.noteapp.icu
 ||hixtzumpygmi.com^$dnsrewrite=block.noteapp.icu
-||hiynquvlrevli.com^$dnsrewrite=block.noteapp.icu
 ||hj6y7jrhnysuchtjhw.info^$dnsrewrite=block.noteapp.icu
 ||hj8gf.icu^$dnsrewrite=block.noteapp.icu
 ||hjalma.com^$dnsrewrite=block.noteapp.icu
@@ -20531,6 +20515,7 @@
 ||honwjjrzo.com^$dnsrewrite=block.noteapp.icu
 ||honzoenjewel.shop^$dnsrewrite=block.noteapp.icu
 ||hoo1luha.com^$dnsrewrite=block.noteapp.icu
+||hoocaumakopaibu.com^$dnsrewrite=block.noteapp.icu
 ||hoodboth.com^$dnsrewrite=block.noteapp.icu
 ||hoodentangle.com^$dnsrewrite=block.noteapp.icu
 ||hoodingluster.com^$dnsrewrite=block.noteapp.icu
@@ -20807,7 +20792,6 @@
 ||huohuo.huamuwo.com^$dnsrewrite=block.noteapp.icu
 ||hupot.site^$dnsrewrite=block.noteapp.icu
 ||huqbeiy.com^$dnsrewrite=block.noteapp.icu
-||hur05121kns.com^$dnsrewrite=block.noteapp.icu
 ||hur05130kns.com^$dnsrewrite=block.noteapp.icu
 ||hurdlesomehowpause.com^$dnsrewrite=block.noteapp.icu
 ||hurkarubypaths.com^$dnsrewrite=block.noteapp.icu
@@ -20861,7 +20845,6 @@
 ||hybrid-prd.ad-prd.s.joyn.de^$dnsrewrite=block.noteapp.icu
 ||hybrid.ai^$dnsrewrite=block.noteapp.icu
 ||hybrid.ru^$dnsrewrite=block.noteapp.icu
-||hycantyoubelik.com^$dnsrewrite=block.noteapp.icu
 ||hycantyoubeliketh.com^$dnsrewrite=block.noteapp.icu
 ||hydramedia.com^$dnsrewrite=block.noteapp.icu
 ||hydrangeao.com^$dnsrewrite=block.noteapp.icu
@@ -20970,7 +20953,6 @@
 ||iagrus.com^$dnsrewrite=block.noteapp.icu
 ||iairuo.xyz^$dnsrewrite=block.noteapp.icu
 ||iaisvasxruxqv.life^$dnsrewrite=block.noteapp.icu
-||iakixtnaln.com^$dnsrewrite=block.noteapp.icu
 ||iam.datasavannah.com^$dnsrewrite=block.noteapp.icu
 ||iambistbiuret.life^$dnsrewrite=block.noteapp.icu
 ||iamiraqi.com^$dnsrewrite=block.noteapp.icu
@@ -21066,7 +21048,6 @@
 ||idreamed.com^$dnsrewrite=block.noteapp.icu
 ||idregie.com^$dnsrewrite=block.noteapp.icu
 ||idswinpole.casa^$dnsrewrite=block.noteapp.icu
-||idydlesswale.info^$dnsrewrite=block.noteapp.icu
 ||ie8eamus.com^$dnsrewrite=block.noteapp.icu
 ||iedtothema.org^$dnsrewrite=block.noteapp.icu
 ||iegrozrmvgjfp.online^$dnsrewrite=block.noteapp.icu
@@ -21096,7 +21077,6 @@
 ||igainareputaon.info^$dnsrewrite=block.noteapp.icu
 ||igbfwa.com^$dnsrewrite=block.noteapp.icu
 ||iggbky.xyz^$dnsrewrite=block.noteapp.icu
-||ightsapph.info^$dnsrewrite=block.noteapp.icu
 ||iglegoarous.net^$dnsrewrite=block.noteapp.icu
 ||igloogloub.net^$dnsrewrite=block.noteapp.icu
 ||iglooprin.com^$dnsrewrite=block.noteapp.icu
@@ -21999,7 +21979,6 @@
 ||jaggedunaccustomeddime.com^$dnsrewrite=block.noteapp.icu
 ||jagnoans.com^$dnsrewrite=block.noteapp.icu
 ||jaifoptafoog.com^$dnsrewrite=block.noteapp.icu
-||jailabridge.com^$dnsrewrite=block.noteapp.icu
 ||jaimirozadair.net^$dnsrewrite=block.noteapp.icu
 ||jaiphoaptom.net^$dnsrewrite=block.noteapp.icu
 ||jakseegrutso.net^$dnsrewrite=block.noteapp.icu
@@ -22901,6 +22880,7 @@
 ||kklq05111p0i.com^$dnsrewrite=block.noteapp.icu
 ||kklq05120p0i.com^$dnsrewrite=block.noteapp.icu
 ||kklq05121p0i.com^$dnsrewrite=block.noteapp.icu
+||kklq05131p0i.com^$dnsrewrite=block.noteapp.icu
 ||kkmacsqsbf.info^$dnsrewrite=block.noteapp.icu
 ||kknkcyrkvoqsqa.com^$dnsrewrite=block.noteapp.icu
 ||kkoacpohjomc.com^$dnsrewrite=block.noteapp.icu
@@ -23018,7 +22998,6 @@
 ||koiaripolymny.com^$dnsrewrite=block.noteapp.icu
 ||koindut.com^$dnsrewrite=block.noteapp.icu
 ||kokflrflwarlx.today^$dnsrewrite=block.noteapp.icu
-||kokotrokot.com^$dnsrewrite=block.noteapp.icu
 ||kolerevprivatedqu.com^$dnsrewrite=block.noteapp.icu
 ||koleyo.xyz^$dnsrewrite=block.noteapp.icu
 ||kolkwi4tzicraamabilis.com^$dnsrewrite=block.noteapp.icu
@@ -23571,7 +23550,6 @@
 ||legitimatepowers.com^$dnsrewrite=block.noteapp.icu
 ||leglikedescantwonder.com^$dnsrewrite=block.noteapp.icu
 ||legoongetheew.net^$dnsrewrite=block.noteapp.icu
-||legy-jp.line-apps.com^$dnsrewrite=block.noteapp.icu
 ||lehechapunevent.com^$dnsrewrite=block.noteapp.icu
 ||lehemhavita.club^$dnsrewrite=block.noteapp.icu
 ||lehmergambits.click^$dnsrewrite=block.noteapp.icu
@@ -24463,7 +24441,6 @@
 ||long.hentaihy.com^$dnsrewrite=block.noteapp.icu
 ||long1x.xyz^$dnsrewrite=block.noteapp.icu
 ||longarctic.com^$dnsrewrite=block.noteapp.icu
-||longestencouragerobber.com^$dnsrewrite=block.noteapp.icu
 ||longingarsonistexemplify.com^$dnsrewrite=block.noteapp.icu
 ||longinghospitalsurveyed.com^$dnsrewrite=block.noteapp.icu
 ||longmusic.com^$dnsrewrite=block.noteapp.icu
@@ -24571,7 +24548,6 @@
 ||lovescontactthemeetup.com^$dnsrewrite=block.noteapp.icu
 ||lovesparkle.space^$dnsrewrite=block.noteapp.icu
 ||lovingboulevard.com^$dnsrewrite=block.noteapp.icu
-||lowdodrioon.com^$dnsrewrite=block.noteapp.icu
 ||lowdurantom.com^$dnsrewrite=block.noteapp.icu
 ||lowercommander.com^$dnsrewrite=block.noteapp.icu
 ||loweredbowl.com^$dnsrewrite=block.noteapp.icu
@@ -24624,7 +24600,6 @@
 ||lsjne.com^$dnsrewrite=block.noteapp.icu
 ||lskillsexkcerl.com^$dnsrewrite=block.noteapp.icu
 ||lsoextraorfekin.com^$dnsrewrite=block.noteapp.icu
-||lsuwndhxt.com^$dnsrewrite=block.noteapp.icu
 ||lsyaicl.icu^$dnsrewrite=block.noteapp.icu
 ||lszydrtzsh.com^$dnsrewrite=block.noteapp.icu
 ||ltacuvowpzr.com^$dnsrewrite=block.noteapp.icu
@@ -24672,6 +24647,7 @@
 ||luhoysvkxsewc.xyz^$dnsrewrite=block.noteapp.icu
 ||lukeinoffensive.com^$dnsrewrite=block.noteapp.icu
 ||lukyday.xyz^$dnsrewrite=block.noteapp.icu
+||lullfork.com^$dnsrewrite=block.noteapp.icu
 ||luloffer.com^$dnsrewrite=block.noteapp.icu
 ||lumaktoys.com^$dnsrewrite=block.noteapp.icu
 ||lumberperpetual.com^$dnsrewrite=block.noteapp.icu
@@ -25487,7 +25463,6 @@
 ||mericantpastellih.org^$dnsrewrite=block.noteapp.icu
 ||mericefem.shop^$dnsrewrite=block.noteapp.icu
 ||merterpazar.com^$dnsrewrite=block.noteapp.icu
-||merzqdnhuli.com^$dnsrewrite=block.noteapp.icu
 ||meshsensorcuriosity.com^$dnsrewrite=block.noteapp.icu
 ||mesmerizeexempt.com^$dnsrewrite=block.noteapp.icu
 ||mesqwrte.net^$dnsrewrite=block.noteapp.icu
@@ -26401,7 +26376,6 @@
 ||mulecleared.com^$dnsrewrite=block.noteapp.icu
 ||muletatyphic.com^$dnsrewrite=block.noteapp.icu
 ||multiculturalcakelimited.com^$dnsrewrite=block.noteapp.icu
-||multieser.info^$dnsrewrite=block.noteapp.icu
 ||multiphoo.com^$dnsrewrite=block.noteapp.icu
 ||multisetup.pro^$dnsrewrite=block.noteapp.icu
 ||multiupload.com^$dnsrewrite=block.noteapp.icu
@@ -26792,7 +26766,6 @@
 ||ncz3u7cj2.com^$dnsrewrite=block.noteapp.icu
 ||ndandinter.hair^$dnsrewrite=block.noteapp.icu
 ||ndaspiratiotyukn.com^$dnsrewrite=block.noteapp.icu
-||ndatgiicef.com^$dnsrewrite=block.noteapp.icu
 ||ndcomemunica.com^$dnsrewrite=block.noteapp.icu
 ||ndct-data.video.iqiyi.com^$dnsrewrite=block.noteapp.icu
 ||ndeedtheriverwas.com^$dnsrewrite=block.noteapp.icu
@@ -27134,7 +27107,6 @@
 ||nirvanaimbalms.shop^$dnsrewrite=block.noteapp.icu
 ||nishoagn.com^$dnsrewrite=block.noteapp.icu
 ||nismscoldnesfspu.com^$dnsrewrite=block.noteapp.icu
-||nitchmowed.com^$dnsrewrite=block.noteapp.icu
 ||nitohptzo.com^$dnsrewrite=block.noteapp.icu
 ||nitridslah.com^$dnsrewrite=block.noteapp.icu
 ||nitroclicks.com^$dnsrewrite=block.noteapp.icu
@@ -28009,7 +27981,6 @@
 ||okjkidtajoh.com^$dnsrewrite=block.noteapp.icu
 ||okkkk.com^$dnsrewrite=block.noteapp.icu
 ||okkodoo.com^$dnsrewrite=block.noteapp.icu
-||okkywctpvfu.com^$dnsrewrite=block.noteapp.icu
 ||oklstupu.com^$dnsrewrite=block.noteapp.icu
 ||oko.net^$dnsrewrite=block.noteapp.icu
 ||okrasbj6.de^$dnsrewrite=block.noteapp.icu
@@ -28448,6 +28419,7 @@
 ||orgaxngxhvdp.rocks^$dnsrewrite=block.noteapp.icu
 ||orgueapropos.top^$dnsrewrite=block.noteapp.icu
 ||orhavingartisticta.com^$dnsrewrite=block.noteapp.icu
+||orhotjoqv.com^$dnsrewrite=block.noteapp.icu
 ||orientaldumbest.com^$dnsrewrite=block.noteapp.icu
 ||orientationphotographicmanslaughter.com^$dnsrewrite=block.noteapp.icu
 ||orientczarism.top^$dnsrewrite=block.noteapp.icu
@@ -29487,7 +29459,6 @@
 ||pghglj.icu^$dnsrewrite=block.noteapp.icu
 ||pgjt26tsm.com^$dnsrewrite=block.noteapp.icu
 ||pgmediaserve.com^$dnsrewrite=block.noteapp.icu
-||pgorttohwo.info^$dnsrewrite=block.noteapp.icu
 ||pgpartner.com^$dnsrewrite=block.noteapp.icu
 ||pgssl.com^$dnsrewrite=block.noteapp.icu
 ||pgt1.voyage-prive.es^$dnsrewrite=block.noteapp.icu
@@ -29906,7 +29877,6 @@
 ||platform.iteratehq.com^$dnsrewrite=block.noteapp.icu
 ||platform.loyaltylion.com^$dnsrewrite=block.noteapp.icu
 ||platform.showcasead.com^$dnsrewrite=block.noteapp.icu
-||platformallowingcame.com^$dnsrewrite=block.noteapp.icu
 ||platformsrat.com^$dnsrewrite=block.noteapp.icu
 ||platypus.cmp.is^$dnsrewrite=block.noteapp.icu
 ||platypus.colly.com^$dnsrewrite=block.noteapp.icu
@@ -29968,7 +29938,6 @@
 ||pledgorulmous.top^$dnsrewrite=block.noteapp.icu
 ||plenomedia.com^$dnsrewrite=block.noteapp.icu
 ||plentifulslander.com^$dnsrewrite=block.noteapp.icu
-||plewcasaun.top^$dnsrewrite=block.noteapp.icu
 ||plewhocaabo.org^$dnsrewrite=block.noteapp.icu
 ||plexop.net^$dnsrewrite=block.noteapp.icu
 ||plfwxtgu.icu^$dnsrewrite=block.noteapp.icu
@@ -31371,7 +31340,6 @@
 ||qel-qel-fie.com^$dnsrewrite=block.noteapp.icu
 ||qelqlunebz.com^$dnsrewrite=block.noteapp.icu
 ||qepytatzudtum.life^$dnsrewrite=block.noteapp.icu
-||qerkbejkbqywb.top^$dnsrewrite=block.noteapp.icu
 ||qerkbejqwqjkr.top^$dnsrewrite=block.noteapp.icu
 ||qevseeymcpxby.click^$dnsrewrite=block.noteapp.icu
 ||qewwklaovmmw.top^$dnsrewrite=block.noteapp.icu
@@ -31474,7 +31442,6 @@
 ||qpyrqg.xyz^$dnsrewrite=block.noteapp.icu
 ||qqbqy.com^$dnsrewrite=block.noteapp.icu
 ||qqganna.icu^$dnsrewrite=block.noteapp.icu
-||qqgiopiwwuv.com^$dnsrewrite=block.noteapp.icu
 ||qqqdsrjovklsr.today^$dnsrewrite=block.noteapp.icu
 ||qqqwes.com^$dnsrewrite=block.noteapp.icu
 ||qqrxk.club^$dnsrewrite=block.noteapp.icu
@@ -31704,7 +31671,6 @@
 ||rabbit.kilowatt.media^$dnsrewrite=block.noteapp.icu
 ||rabbit.radicalxchange.org^$dnsrewrite=block.noteapp.icu
 ||rabbit.upwardhomes.net^$dnsrewrite=block.noteapp.icu
-||rabbitsshortwaggoner.com^$dnsrewrite=block.noteapp.icu
 ||rabblevalenone.com^$dnsrewrite=block.noteapp.icu
 ||rabc1.iteye.com^$dnsrewrite=block.noteapp.icu
 ||rac.ruutu.fi^$dnsrewrite=block.noteapp.icu
@@ -31873,6 +31839,7 @@
 ||rb.infox.sg^$dnsrewrite=block.noteapp.icu
 ||rb.rfn.ru^$dnsrewrite=block.noteapp.icu
 ||rbbutton.bid^$dnsrewrite=block.noteapp.icu
+||rbdata.boostymark.com^$dnsrewrite=block.noteapp.icu
 ||rbfive.bid^$dnsrewrite=block.noteapp.icu
 ||rbfour.bid^$dnsrewrite=block.noteapp.icu
 ||rbift.icu^$dnsrewrite=block.noteapp.icu
@@ -32579,7 +32546,6 @@
 ||rhubarbmasterpiece.com^$dnsrewrite=block.noteapp.icu
 ||rhudsplm.com^$dnsrewrite=block.noteapp.icu
 ||rhvdsplm.com^$dnsrewrite=block.noteapp.icu
-||rhxbuslpclxnisl.com^$dnsrewrite=block.noteapp.icu
 ||rhxdsplm.com^$dnsrewrite=block.noteapp.icu
 ||rhythmskis.top^$dnsrewrite=block.noteapp.icu
 ||rhythmxchange.com^$dnsrewrite=block.noteapp.icu
@@ -32814,7 +32780,6 @@
 ||romance-contact-flirtings.com^$dnsrewrite=block.noteapp.icu
 ||romance-net.com^$dnsrewrite=block.noteapp.icu
 ||romancefever.com^$dnsrewrite=block.noteapp.icu
-||romancepotsexists.com^$dnsrewrite=block.noteapp.icu
 ||romances-connects.com^$dnsrewrite=block.noteapp.icu
 ||romanceswoman-romance.com^$dnsrewrite=block.noteapp.icu
 ||romanticwait.com^$dnsrewrite=block.noteapp.icu
@@ -32939,10 +32904,8 @@
 ||rqsaxxdbt.com^$dnsrewrite=block.noteapp.icu
 ||rqvrbf.icu^$dnsrewrite=block.noteapp.icu
 ||rqwel.com^$dnsrewrite=block.noteapp.icu
-||rqzolelelmaea.top^$dnsrewrite=block.noteapp.icu
 ||rreftyonkak.com^$dnsrewrite=block.noteapp.icu
 ||rregahfuk.com^$dnsrewrite=block.noteapp.icu
-||rrgbjybt.com^$dnsrewrite=block.noteapp.icu
 ||rrmlejvyqwzk.top^$dnsrewrite=block.noteapp.icu
 ||rrqhieeaf.com^$dnsrewrite=block.noteapp.icu
 ||rrss.abc.es^$dnsrewrite=block.noteapp.icu
@@ -34035,7 +33998,6 @@
 ||sdmfyqkghzedvx.com^$dnsrewrite=block.noteapp.icu
 ||sdrive.skoda-auto.com^$dnsrewrite=block.noteapp.icu
 ||sdtagging.azureedge.net^$dnsrewrite=block.noteapp.icu
-||sdwrghcv.top^$dnsrewrite=block.noteapp.icu
 ||sdxefrukqjsi.com^$dnsrewrite=block.noteapp.icu
 ||se05.biz^$dnsrewrite=block.noteapp.icu
 ||seafoodclickwaited.com^$dnsrewrite=block.noteapp.icu
@@ -34415,7 +34377,6 @@
 ||sffsdvc.com^$dnsrewrite=block.noteapp.icu
 ||sfixretarum.com^$dnsrewrite=block.noteapp.icu
 ||sfp.safe.baidu.com^$dnsrewrite=block.noteapp.icu
-||sfrskxvsvocg.com^$dnsrewrite=block.noteapp.icu
 ||sftapi.com^$dnsrewrite=block.noteapp.icu
 ||sftrack.searchforce.net^$dnsrewrite=block.noteapp.icu
 ||sfulylydeveloped.org^$dnsrewrite=block.noteapp.icu
@@ -34526,7 +34487,6 @@
 ||shark.codeswitch.be^$dnsrewrite=block.noteapp.icu
 ||shark.getplayback.com^$dnsrewrite=block.noteapp.icu
 ||shark.rockyourlife.de^$dnsrewrite=block.noteapp.icu
-||sharkbleed.com^$dnsrewrite=block.noteapp.icu
 ||sharkedmarque.com^$dnsrewrite=block.noteapp.icu
 ||sharkfirelife.com^$dnsrewrite=block.noteapp.icu
 ||sharks.vn^$dnsrewrite=block.noteapp.icu
@@ -34571,6 +34531,7 @@
 ||sheesimo.net^$dnsrewrite=block.noteapp.icu
 ||sheetsoom.top^$dnsrewrite=block.noteapp.icu
 ||sheetvibe.com^$dnsrewrite=block.noteapp.icu
+||sheilaqeb.com^$dnsrewrite=block.noteapp.icu
 ||sheisnotateacher.com^$dnsrewrite=block.noteapp.icu
 ||shelfcandler.shop^$dnsrewrite=block.noteapp.icu
 ||shelfoka.com^$dnsrewrite=block.noteapp.icu
@@ -34995,7 +34956,6 @@
 ||slowclick.top^$dnsrewrite=block.noteapp.icu
 ||slowdn.net^$dnsrewrite=block.noteapp.icu
 ||slowlythrobtreasurer.com^$dnsrewrite=block.noteapp.icu
-||slpfgvuovgj.com^$dnsrewrite=block.noteapp.icu
 ||sltraffic.com^$dnsrewrite=block.noteapp.icu
 ||sluggedunbeget.top^$dnsrewrite=block.noteapp.icu
 ||sluicebigheartedpeevish.com^$dnsrewrite=block.noteapp.icu
@@ -35833,7 +35793,6 @@
 ||starkgame.zijieapi.com^$dnsrewrite=block.noteapp.icu
 ||starkuno.com^$dnsrewrite=block.noteapp.icu
 ||starlingposterity.com^$dnsrewrite=block.noteapp.icu
-||starlingpronouninsight.com^$dnsrewrite=block.noteapp.icu
 ||starman-jack.fathomdns.com^$dnsrewrite=block.noteapp.icu
 ||starman-new.fathomdns.com^$dnsrewrite=block.noteapp.icu
 ||starman.fathomdns.com^$dnsrewrite=block.noteapp.icu
@@ -36874,6 +36833,7 @@
 ||surroundfeathers.com^$dnsrewrite=block.noteapp.icu
 ||surroundwaxworkspoisonous.com^$dnsrewrite=block.noteapp.icu
 ||surrvey2you.com^$dnsrewrite=block.noteapp.icu
+||surtaultathoado.com^$dnsrewrite=block.noteapp.icu
 ||surtul.life^$dnsrewrite=block.noteapp.icu
 ||survey-daily-prizes.com^$dnsrewrite=block.noteapp.icu
 ||survey.interquest.com^$dnsrewrite=block.noteapp.icu
@@ -37678,7 +37638,6 @@
 ||tensuao.club^$dnsrewrite=block.noteapp.icu
 ||tenthgiven.com^$dnsrewrite=block.noteapp.icu
 ||tenthsfrumpy.com^$dnsrewrite=block.noteapp.icu
-||tenzoneinput.shop^$dnsrewrite=block.noteapp.icu
 ||tepirhdbauahk.com^$dnsrewrite=block.noteapp.icu
 ||teracreative.com^$dnsrewrite=block.noteapp.icu
 ||teralog.techhub.co.kr^$dnsrewrite=block.noteapp.icu
@@ -39223,6 +39182,7 @@
 ||trebghoru.com^$dnsrewrite=block.noteapp.icu
 ||trebleuniversity.com^$dnsrewrite=block.noteapp.icu
 ||trecker.aklamio.com^$dnsrewrite=block.noteapp.icu
+||treconeanalytics.com^$dnsrewrite=block.noteapp.icu
 ||trecurlik.com^$dnsrewrite=block.noteapp.icu
 ||trecut.com^$dnsrewrite=block.noteapp.icu
 ||treefrog.kaffeknappen.no^$dnsrewrite=block.noteapp.icu
@@ -39230,7 +39190,6 @@
 ||treefrog.walkingwithdaddy.com^$dnsrewrite=block.noteapp.icu
 ||treegoalrtb.com^$dnsrewrite=block.noteapp.icu
 ||treehouse.wwoz.org^$dnsrewrite=block.noteapp.icu
-||treehusbanddistraction.com^$dnsrewrite=block.noteapp.icu
 ||treemagrig.live^$dnsrewrite=block.noteapp.icu
 ||treenghsas.com^$dnsrewrite=block.noteapp.icu
 ||treepullmerriment.com^$dnsrewrite=block.noteapp.icu
@@ -39676,6 +39635,7 @@
 ||tzbirdcod.com^$dnsrewrite=block.noteapp.icu
 ||tzegilo.com^$dnsrewrite=block.noteapp.icu
 ||tzirtatakoqf.com^$dnsrewrite=block.noteapp.icu
+||tzm.px-cloud.net^$dnsrewrite=block.noteapp.icu
 ||tzohtepki.com^$dnsrewrite=block.noteapp.icu
 ||tzojiqrixpma.com^$dnsrewrite=block.noteapp.icu
 ||tzsxqxxjvzfeq.one^$dnsrewrite=block.noteapp.icu
@@ -39875,7 +39835,6 @@
 ||uksofthecomp.com^$dnsrewrite=block.noteapp.icu
 ||uktgg.dev-tester.com^$dnsrewrite=block.noteapp.icu
 ||ukuleqasforsale.com^$dnsrewrite=block.noteapp.icu
-||uldmakefeagr.info^$dnsrewrite=block.noteapp.icu
 ||uleqasforsalesre.com^$dnsrewrite=block.noteapp.icu
 ||ulesxbo.com^$dnsrewrite=block.noteapp.icu
 ||uleticgulches.shop^$dnsrewrite=block.noteapp.icu
@@ -40997,6 +40956,7 @@
 ||vopzhl.icu^$dnsrewrite=block.noteapp.icu
 ||voredi.com^$dnsrewrite=block.noteapp.icu
 ||vorsoutseemt.com^$dnsrewrite=block.noteapp.icu
+||vortex-dual.hulu.com^$dnsrewrite=block.noteapp.icu
 ||vossulekuk.com^$dnsrewrite=block.noteapp.icu
 ||voteclassicscocktail.com^$dnsrewrite=block.noteapp.icu
 ||vothongeey.net^$dnsrewrite=block.noteapp.icu
@@ -41557,7 +41517,6 @@
 ||wensonk.com^$dnsrewrite=block.noteapp.icu
 ||wenxue.weimeifan.net^$dnsrewrite=block.noteapp.icu
 ||wenxue.youzhicn.com^$dnsrewrite=block.noteapp.icu
-||weod.cn^$dnsrewrite=block.noteapp.icu
 ||werbemanager.w24.at^$dnsrewrite=block.noteapp.icu
 ||werbung.meteoxpress.com^$dnsrewrite=block.noteapp.icu
 ||weredthechildre.com^$dnsrewrite=block.noteapp.icu
@@ -41945,7 +41904,6 @@
 ||wkclick.baidu.com^$dnsrewrite=block.noteapp.icu
 ||wkctj.baidu.com^$dnsrewrite=block.noteapp.icu
 ||wkoocuweg.com^$dnsrewrite=block.noteapp.icu
-||wkpgetvhidtj.com^$dnsrewrite=block.noteapp.icu
 ||wktyyxtvwthxp.one^$dnsrewrite=block.noteapp.icu
 ||wkzw.me^$dnsrewrite=block.noteapp.icu
 ||wl-analytics.tsp.li^$dnsrewrite=block.noteapp.icu
@@ -42440,6 +42398,7 @@
 ||xkpbcd.com^$dnsrewrite=block.noteapp.icu
 ||xktxemf.com^$dnsrewrite=block.noteapp.icu
 ||xlbxsaxuc.com^$dnsrewrite=block.noteapp.icu
+||xldncyivwazvfy.com^$dnsrewrite=block.noteapp.icu
 ||xliirdr.com^$dnsrewrite=block.noteapp.icu
 ||xlirdr.com^$dnsrewrite=block.noteapp.icu
 ||xlivesex.com^$dnsrewrite=block.noteapp.icu
@@ -43045,6 +43004,7 @@
 ||yads.yjtag.yahoo.co.jp^$dnsrewrite=block.noteapp.icu
 ||yaervrqwtu.com^$dnsrewrite=block.noteapp.icu
 ||yahuu.org^$dnsrewrite=block.noteapp.icu
+||yajeinsogged.shop^$dnsrewrite=block.noteapp.icu
 ||yak.auclantis.com^$dnsrewrite=block.noteapp.icu
 ||yak.flutterblog.net^$dnsrewrite=block.noteapp.icu
 ||yak.gregsullivan.com^$dnsrewrite=block.noteapp.icu
@@ -43052,6 +43012,7 @@
 ||yaksgwrkhufex.com^$dnsrewrite=block.noteapp.icu
 ||yamshikbrucia.top^$dnsrewrite=block.noteapp.icu
 ||yandexadexchange.net^$dnsrewrite=block.noteapp.icu
+||yao7392.xyz^$dnsrewrite=block.noteapp.icu
 ||yapforestsfairfax.com^$dnsrewrite=block.noteapp.icu
 ||yapzoa.xyz^$dnsrewrite=block.noteapp.icu
 ||yarlnk.com^$dnsrewrite=block.noteapp.icu
@@ -43756,8 +43717,6 @@
 ||cdn2.auditude.com^$dnsrewrite=block.noteapp.icu
 ||www.auditude.com^$dnsrewrite=block.noteapp.icu
 ||startup.mobile.yandex.net^$dnsrewrite=block.noteapp.icu
-||sheilaqeb.com^$dnsrewrite=block.noteapp.icu
-||api.adaether.com^$dnsrewrite=block.noteapp.icu
 ||rainmaker.production-public.tubi.io^$dnsrewrite=block.noteapp.icu
 ||ad*.zonaplus.tv^$dnsrewrite=block.noteapp.icu
 ||tiktokpangle.us^$dnsrewrite=block.noteapp.icu
@@ -45022,6 +44981,8 @@
 ||abo-schnapper.de^$dnsrewrite=block.noteapp.icu
 ||abodespot.com^$dnsrewrite=block.noteapp.icu
 ||abouthandtools.com^$dnsrewrite=block.noteapp.icu
+||aboutsafetytool.com^$dnsrewrite=block.noteapp.icu
+||abouttooltrade.com^$dnsrewrite=block.noteapp.icu
 ||aboveinvesting.pro^$dnsrewrite=block.noteapp.icu
 ||abrorabatt.de^$dnsrewrite=block.noteapp.icu
 ||abtechnik-versand.de^$dnsrewrite=block.noteapp.icu
@@ -45064,7 +45025,6 @@
 ||actualites247.com^$dnsrewrite=block.noteapp.icu
 ||acy.com^$dnsrewrite=block.noteapp.icu
 ||ad-property.com^$dnsrewrite=block.noteapp.icu
-||adadream.com^$dnsrewrite=block.noteapp.icu
 ||adamlio.de^$dnsrewrite=block.noteapp.icu
 ||adaton.de^$dnsrewrite=block.noteapp.icu
 ||addedtechnology.com^$dnsrewrite=block.noteapp.icu
@@ -45131,7 +45091,6 @@
 ||ahwui.xyz^$dnsrewrite=block.noteapp.icu
 ||ai-assets.net^$dnsrewrite=block.noteapp.icu
 ||aiapp2025.com^$dnsrewrite=block.noteapp.icu
-||aido-gooders.com^$dnsrewrite=block.noteapp.icu
 ||aigleoutletuk.com^$dnsrewrite=block.noteapp.icu
 ||aiglewien.at^$dnsrewrite=block.noteapp.icu
 ||aileuchten.com^$dnsrewrite=block.noteapp.icu
@@ -45183,6 +45142,8 @@
 ||aldorabatt.de^$dnsrewrite=block.noteapp.icu
 ||aldoschuhe.de^$dnsrewrite=block.noteapp.icu
 ||aldosouthafrica.com^$dnsrewrite=block.noteapp.icu
+||aldozapatos.com^$dnsrewrite=block.noteapp.icu
+||alessandrozavettijas.com^$dnsrewrite=block.noteapp.icu
 ||alessandrozavettiromania.com^$dnsrewrite=block.noteapp.icu
 ||alessandrozavettiuk.com^$dnsrewrite=block.noteapp.icu
 ||alessandrozavettiweste.de^$dnsrewrite=block.noteapp.icu
@@ -45298,6 +45259,7 @@
 ||amadeus-markets.com^$dnsrewrite=block.noteapp.icu
 ||amaexpres.com^$dnsrewrite=block.noteapp.icu
 ||amanoacs.com^$dnsrewrite=block.noteapp.icu
+||amarego.com^$dnsrewrite=block.noteapp.icu
 ||amazboxde.com^$dnsrewrite=block.noteapp.icu
 ||amazonboxus.com^$dnsrewrite=block.noteapp.icu
 ||amazoncoin.su^$dnsrewrite=block.noteapp.icu
@@ -45563,6 +45525,7 @@
 ||asics-suomi.com^$dnsrewrite=block.noteapp.icu
 ||asicsat.at^$dnsrewrite=block.noteapp.icu
 ||asicsdeutschland.de^$dnsrewrite=block.noteapp.icu
+||asicskuwaitsale.com^$dnsrewrite=block.noteapp.icu
 ||asicsosterreich.at^$dnsrewrite=block.noteapp.icu
 ||asicsoutletwien.at^$dnsrewrite=block.noteapp.icu
 ||asicss.de^$dnsrewrite=block.noteapp.icu
@@ -45571,6 +45534,7 @@
 ||asolocipele.com^$dnsrewrite=block.noteapp.icu
 ||asolosko.com^$dnsrewrite=block.noteapp.icu
 ||asolousoutlet.com^$dnsrewrite=block.noteapp.icu
+||asportuguesaslatvija.com^$dnsrewrite=block.noteapp.icu
 ||assemblytoolprada.com^$dnsrewrite=block.noteapp.icu
 ||asset-ace.org^$dnsrewrite=block.noteapp.icu
 ||assetimperial.com^$dnsrewrite=block.noteapp.icu
@@ -45765,6 +45729,7 @@
 ||badundheizungshop.de^$dnsrewrite=block.noteapp.icu
 ||badzubehorbadmobel.com^$dnsrewrite=block.noteapp.icu
 ||baerliner-apotheke-berlin-marzahn.de^$dnsrewrite=block.noteapp.icu
+||baffindeutschland.com^$dnsrewrite=block.noteapp.icu
 ||bagnovelty.com^$dnsrewrite=block.noteapp.icu
 ||wwd.bags2020c.cz^$dnsrewrite=block.noteapp.icu
 ||eu.bagsvalley.cn^$dnsrewrite=block.noteapp.icu
@@ -45907,7 +45872,6 @@
 ||bedrocksandals-deutschland.com^$dnsrewrite=block.noteapp.icu
 ||bedrocksandals-germany.com^$dnsrewrite=block.noteapp.icu
 ||haushaltgruen.beemwm.life^$dnsrewrite=block.noteapp.icu
-||beieva.shop^$dnsrewrite=block.noteapp.icu
 ||beipartners.com^$dnsrewrite=block.noteapp.icu
 ||bekleidungkayak.com^$dnsrewrite=block.noteapp.icu
 ||bekleidungonstore.com^$dnsrewrite=block.noteapp.icu
@@ -46366,6 +46330,7 @@
 ||bossoptions.com^$dnsrewrite=block.noteapp.icu
 ||bosug.de^$dnsrewrite=block.noteapp.icu
 ||botanischer-schlossgarten.com^$dnsrewrite=block.noteapp.icu
+||botasdemonia.com^$dnsrewrite=block.noteapp.icu
 ||botashunterargentina.com^$dnsrewrite=block.noteapp.icu
 ||botashuntermexico.com^$dnsrewrite=block.noteapp.icu
 ||botashuntermujer.com^$dnsrewrite=block.noteapp.icu
@@ -46813,6 +46778,7 @@
 ||chicladyshoes.com^$dnsrewrite=block.noteapp.icu
 ||chiclolo.com^$dnsrewrite=block.noteapp.icu
 ||chicnovas.store^$dnsrewrite=block.noteapp.icu
+||chicsafetytool.com^$dnsrewrite=block.noteapp.icu
 ||chicshopus.com^$dnsrewrite=block.noteapp.icu
 ||chicwomenus.com^$dnsrewrite=block.noteapp.icu
 ||chiensetchatsboutiquede.shop^$dnsrewrite=block.noteapp.icu
@@ -46924,6 +46890,7 @@
 ||luxurydupes.co.uk^$dnsrewrite=block.noteapp.icu
 ||mk-southafrica.co.za^$dnsrewrite=block.noteapp.icu
 ||onitsukasouthafrica.co.za^$dnsrewrite=block.noteapp.icu
+||pacsunsouthafrica.co.za^$dnsrewrite=block.noteapp.icu
 ||prettylittlething.co.za^$dnsrewrite=block.noteapp.icu
 ||stussyindiastore.co.in^$dnsrewrite=block.noteapp.icu
 ||tom-ford.co.za^$dnsrewrite=block.noteapp.icu
@@ -47231,7 +47198,7 @@
 ||cryptoneyx.io^$dnsrewrite=block.noteapp.icu
 ||cryptoqate.com^$dnsrewrite=block.noteapp.icu
 ||cryptoquicker.com^$dnsrewrite=block.noteapp.icu
-||cryptos.solutions^$dnsrewrite=block.noteapp.icu
+||www.cryptos.solutions^$dnsrewrite=block.noteapp.icu
 ||cryptos-maker.com^$dnsrewrite=block.noteapp.icu
 ||cryptosmarket.com^$dnsrewrite=block.noteapp.icu
 ||cryptosone.com^$dnsrewrite=block.noteapp.icu
@@ -47731,6 +47698,7 @@
 ||drivegoodwheels.com^$dnsrewrite=block.noteapp.icu
 ||drmartens-eu.com^$dnsrewrite=block.noteapp.icu
 ||drmartens-outlets.com^$dnsrewrite=block.noteapp.icu
+||drmartensbatai.com^$dnsrewrite=block.noteapp.icu
 ||drmartensbot.com^$dnsrewrite=block.noteapp.icu
 ||drmartensbotas.com^$dnsrewrite=block.noteapp.icu
 ||drmartensdamen.de^$dnsrewrite=block.noteapp.icu
@@ -47805,7 +47773,6 @@
 ||eaepp.com^$dnsrewrite=block.noteapp.icu
 ||eartischleuchten.com^$dnsrewrite=block.noteapp.icu
 ||easies.de^$dnsrewrite=block.noteapp.icu
-||easiood.com^$dnsrewrite=block.noteapp.icu
 ||east-trading.shop^$dnsrewrite=block.noteapp.icu
 ||eastcapitalmarkets.com^$dnsrewrite=block.noteapp.icu
 ||eastpaklietuva.com^$dnsrewrite=block.noteapp.icu
@@ -47875,7 +47842,6 @@
 ||edgefinance.ltd^$dnsrewrite=block.noteapp.icu
 ||edgoodtabs.com^$dnsrewrite=block.noteapp.icu
 ||edgydecoration.com^$dnsrewrite=block.noteapp.icu
-||edgyfashionfinery.com^$dnsrewrite=block.noteapp.icu
 ||edgyusfemale.com^$dnsrewrite=block.noteapp.icu
 ||edhealthpills.top^$dnsrewrite=block.noteapp.icu
 ||edirectclub.hk^$dnsrewrite=block.noteapp.icu
@@ -47941,7 +47907,6 @@
 ||elektriker-zone.at^$dnsrewrite=block.noteapp.icu
 ||elektriker7d.at^$dnsrewrite=block.noteapp.icu
 ||elektro-bau.com^$dnsrewrite=block.noteapp.icu
-||elektro-beuss.de^$dnsrewrite=block.noteapp.icu
 ||elektro-bischof.com^$dnsrewrite=block.noteapp.icu
 ||elektro-dreher.com^$dnsrewrite=block.noteapp.icu
 ||elektro-evolution.de^$dnsrewrite=block.noteapp.icu
@@ -48320,7 +48285,6 @@
 ||fahrraddeneuverkauf.com^$dnsrewrite=block.noteapp.icu
 ||fahrradgps-shop.com^$dnsrewrite=block.noteapp.icu
 ||fahrradhandel-behrendt.de^$dnsrewrite=block.noteapp.icu
-||fahrradhandel-hartmann.de^$dnsrewrite=block.noteapp.icu
 ||fahrradhandel-kappler.de^$dnsrewrite=block.noteapp.icu
 ||fahrradhandel-kramer.de^$dnsrewrite=block.noteapp.icu
 ||fahrradhelden.com^$dnsrewrite=block.noteapp.icu
@@ -48601,6 +48565,7 @@
 ||flow-electric.de^$dnsrewrite=block.noteapp.icu
 ||flowermodas.com^$dnsrewrite=block.noteapp.icu
 ||flugwaren.de^$dnsrewrite=block.noteapp.icu
+||flurdieleart.com^$dnsrewrite=block.noteapp.icu
 ||flwoertime.de^$dnsrewrite=block.noteapp.icu
 ||flyfishing-sale.com^$dnsrewrite=block.noteapp.icu
 ||flyhighshop.de^$dnsrewrite=block.noteapp.icu
@@ -48805,15 +48770,18 @@
 ||gabornz.com^$dnsrewrite=block.noteapp.icu
 ||gaborportugal.com^$dnsrewrite=block.noteapp.icu
 ||gaborsale.com^$dnsrewrite=block.noteapp.icu
+||gaborsandalesparis.com^$dnsrewrite=block.noteapp.icu
 ||gaborschoenen.com^$dnsrewrite=block.noteapp.icu
 ||gaborschuhe.at^$dnsrewrite=block.noteapp.icu
 ||gaborschuhesale.de^$dnsrewrite=block.noteapp.icu
 ||gaborschuheschweiz.com^$dnsrewrite=block.noteapp.icu
 ||gaborschuheschweiz.net^$dnsrewrite=block.noteapp.icu
+||gaborschuhesuisse.com^$dnsrewrite=block.noteapp.icu
 ||gaborschweiz.org^$dnsrewrite=block.noteapp.icu
 ||gaborskonorge.com^$dnsrewrite=block.noteapp.icu
 ||gaborskorsverige.com^$dnsrewrite=block.noteapp.icu
 ||gaborstovlerdanmark.com^$dnsrewrite=block.noteapp.icu
+||gaborsuisse.com^$dnsrewrite=block.noteapp.icu
 ||gaborsuomi.com^$dnsrewrite=block.noteapp.icu
 ||gaborwien.at^$dnsrewrite=block.noteapp.icu
 ||gabriel-handel.de^$dnsrewrite=block.noteapp.icu
@@ -48997,6 +48965,7 @@
 ||geoxportugaloutlet.com^$dnsrewrite=block.noteapp.icu
 ||geoxschuhe.de^$dnsrewrite=block.noteapp.icu
 ||geoxschweiz.com^$dnsrewrite=block.noteapp.icu
+||geoxsouthafrica.com^$dnsrewrite=block.noteapp.icu
 ||geoxsrbija.com^$dnsrewrite=block.noteapp.icu
 ||geoxsuomi.com^$dnsrewrite=block.noteapp.icu
 ||geoxuk.com^$dnsrewrite=block.noteapp.icu
@@ -49148,6 +49117,7 @@
 ||golaschuheswebsite.de^$dnsrewrite=block.noteapp.icu
 ||golaschuhewebsite.de^$dnsrewrite=block.noteapp.icu
 ||golawien.at^$dnsrewrite=block.noteapp.icu
+||golawienonline.at^$dnsrewrite=block.noteapp.icu
 ||gold-heritage.com^$dnsrewrite=block.noteapp.icu
 ||gold-linz.at^$dnsrewrite=block.noteapp.icu
 ||goldblackde.shop^$dnsrewrite=block.noteapp.icu
@@ -49241,7 +49211,6 @@
 ||graubner-concept.shop^$dnsrewrite=block.noteapp.icu
 ||graveilux.de^$dnsrewrite=block.noteapp.icu
 ||gravelbikede.com^$dnsrewrite=block.noteapp.icu
-||gravelbikeneu.com^$dnsrewrite=block.noteapp.icu
 ||graycanyon.com^$dnsrewrite=block.noteapp.icu
 ||hausidee.grdksn.ink^$dnsrewrite=block.noteapp.icu
 ||great-market.com^$dnsrewrite=block.noteapp.icu
@@ -49342,6 +49311,7 @@
 ||guitarssales.com^$dnsrewrite=block.noteapp.icu
 ||gul-store.com^$dnsrewrite=block.noteapp.icu
 ||gumorlbeu.de^$dnsrewrite=block.noteapp.icu
+||gunkn.com^$dnsrewrite=block.noteapp.icu
 ||gunservice-inter.com^$dnsrewrite=block.noteapp.icu
 ||gunstigebademode.com^$dnsrewrite=block.noteapp.icu
 ||gunstigeskaufhaus.com^$dnsrewrite=block.noteapp.icu
@@ -49512,6 +49482,7 @@
 ||haustierzubehor.com^$dnsrewrite=block.noteapp.icu
 ||hausture.com^$dnsrewrite=block.noteapp.icu
 ||hauswelt.shop^$dnsrewrite=block.noteapp.icu
+||hautarzt-augsburg.info^$dnsrewrite=block.noteapp.icu
 ||havaianasflipflops.at^$dnsrewrite=block.noteapp.icu
 ||haventrend.com^$dnsrewrite=block.noteapp.icu
 ||haviequipaferramentas.com^$dnsrewrite=block.noteapp.icu
@@ -49646,9 +49617,11 @@
 ||hellyhansenkuwait.com^$dnsrewrite=block.noteapp.icu
 ||hellyhansenlatvija.com^$dnsrewrite=block.noteapp.icu
 ||hellyhansenmexico.com^$dnsrewrite=block.noteapp.icu
+||hellyhansennederland.com^$dnsrewrite=block.noteapp.icu
 ||hellyhansennorge.net^$dnsrewrite=block.noteapp.icu
 ||hellyhansenparis.net^$dnsrewrite=block.noteapp.icu
 ||hellyhansenromania.net^$dnsrewrite=block.noteapp.icu
+||hellyhansensrbija.com^$dnsrewrite=block.noteapp.icu
 ||hellyhansenuk.com^$dnsrewrite=block.noteapp.icu
 ||hellyhansenuruguay.com^$dnsrewrite=block.noteapp.icu
 ||helmetaccessoriesstore.com^$dnsrewrite=block.noteapp.icu
@@ -49826,10 +49799,12 @@
 ||hondasell.shop^$dnsrewrite=block.noteapp.icu
 ||honess.eu^$dnsrewrite=block.noteapp.icu
 ||honestcapital.pro^$dnsrewrite=block.noteapp.icu
+||hongyun.life^$dnsrewrite=block.noteapp.icu
 ||honk-projekt.de^$dnsrewrite=block.noteapp.icu
 ||hooeyfashion.com^$dnsrewrite=block.noteapp.icu
 ||hoomir.com^$dnsrewrite=block.noteapp.icu
 ||hoopur.com^$dnsrewrite=block.noteapp.icu
+||hopebikeabout.com^$dnsrewrite=block.noteapp.icu
 ||hopesport.de^$dnsrewrite=block.noteapp.icu
 ||hoppylu.com^$dnsrewrite=block.noteapp.icu
 ||horizon-patrimoine.com^$dnsrewrite=block.noteapp.icu
@@ -49847,7 +49822,6 @@
 ||hot-shopping.com^$dnsrewrite=block.noteapp.icu
 ||hotchillies.shop^$dnsrewrite=block.noteapp.icu
 ||hotel-brand-promotion.com^$dnsrewrite=block.noteapp.icu
-||hotel-ds.com^$dnsrewrite=block.noteapp.icu
 ||hotel-marketing-advertising.com^$dnsrewrite=block.noteapp.icu
 ||hotelaustralien.de^$dnsrewrite=block.noteapp.icu
 ||hotelectronicshop.com^$dnsrewrite=block.noteapp.icu
@@ -49947,6 +49921,7 @@
 ||hybridfahrrader.com^$dnsrewrite=block.noteapp.icu
 ||hydrogearworld.com^$dnsrewrite=block.noteapp.icu
 ||hygienecleanshop.com^$dnsrewrite=block.noteapp.icu
+||hyip.com^$dnsrewrite=block.noteapp.icu
 ||hype-handel.de^$dnsrewrite=block.noteapp.icu
 ||hypelaced.co^$dnsrewrite=block.noteapp.icu
 ||hypersneakers.online^$dnsrewrite=block.noteapp.icu
@@ -50357,6 +50332,7 @@
 ||justvanilla.de^$dnsrewrite=block.noteapp.icu
 ||juwelenpalastdeutschland.com^$dnsrewrite=block.noteapp.icu
 ||juwelenpalastosterreich.com^$dnsrewrite=block.noteapp.icu
+||juweliere-lorenz.com^$dnsrewrite=block.noteapp.icu
 ||jwc-handel.de^$dnsrewrite=block.noteapp.icu
 ||jysk-sale.com^$dnsrewrite=block.noteapp.icu
 ||k-apotheke.de^$dnsrewrite=block.noteapp.icu
@@ -50495,6 +50471,7 @@
 ||kbnlogistics.com^$dnsrewrite=block.noteapp.icu
 ||kckmoneyy.com^$dnsrewrite=block.noteapp.icu
 ||ke-99.top^$dnsrewrite=block.noteapp.icu
+||kedsberlin.de^$dnsrewrite=block.noteapp.icu
 ||kedscanada.net^$dnsrewrite=block.noteapp.icu
 ||kedsdamen.com^$dnsrewrite=block.noteapp.icu
 ||kedsfactoryoutlet.com^$dnsrewrite=block.noteapp.icu
@@ -50505,6 +50482,7 @@
 ||kedssuomi.com^$dnsrewrite=block.noteapp.icu
 ||kedssuomishop.com^$dnsrewrite=block.noteapp.icu
 ||keendeutsch.de^$dnsrewrite=block.noteapp.icu
+||keenschuhe.at^$dnsrewrite=block.noteapp.icu
 ||keepcandles.shop^$dnsrewrite=block.noteapp.icu
 ||kellybridgetann.com^$dnsrewrite=block.noteapp.icu
 ||keltygear.com^$dnsrewrite=block.noteapp.icu
@@ -50921,6 +50899,7 @@
 ||letzterweg.com^$dnsrewrite=block.noteapp.icu
 ||leuchtenver.com^$dnsrewrite=block.noteapp.icu
 ||leuchtenzubehor.com^$dnsrewrite=block.noteapp.icu
+||levelbikes.de^$dnsrewrite=block.noteapp.icu
 ||leverkusenboutique.com^$dnsrewrite=block.noteapp.icu
 ||lexer-rasenmaher.com^$dnsrewrite=block.noteapp.icu
 ||lexingtonplus.com^$dnsrewrite=block.noteapp.icu
@@ -50969,6 +50948,7 @@
 ||limestonebd.com^$dnsrewrite=block.noteapp.icu
 ||limetree.at^$dnsrewrite=block.noteapp.icu
 ||limit-bicycle.com^$dnsrewrite=block.noteapp.icu
+||limit-store.com^$dnsrewrite=block.noteapp.icu
 ||limitbalenciaga.com^$dnsrewrite=block.noteapp.icu
 ||limitcarlsontool.com^$dnsrewrite=block.noteapp.icu
 ||limitcovogue.com^$dnsrewrite=block.noteapp.icu
@@ -51069,6 +51049,7 @@
 ||lonoakwostore.com^$dnsrewrite=block.noteapp.icu
 ||lontl-fx.com^$dnsrewrite=block.noteapp.icu
 ||loosepantsofficial.com^$dnsrewrite=block.noteapp.icu
+||looseridersnew.com^$dnsrewrite=block.noteapp.icu
 ||loovincy.com^$dnsrewrite=block.noteapp.icu
 ||lorasmobile.de^$dnsrewrite=block.noteapp.icu
 ||lorenz-kurreisen.de^$dnsrewrite=block.noteapp.icu
@@ -51106,6 +51087,7 @@
 ||louvreentrance.com^$dnsrewrite=block.noteapp.icu
 ||louvreticketsonline.com^$dnsrewrite=block.noteapp.icu
 ||lovandi.eu^$dnsrewrite=block.noteapp.icu
+||loveapparelus.com^$dnsrewrite=block.noteapp.icu
 ||lovebikestore.com^$dnsrewrite=block.noteapp.icu
 ||lovecocvs.best^$dnsrewrite=block.noteapp.icu
 ||lovekizoar.live^$dnsrewrite=block.noteapp.icu
@@ -51142,6 +51124,7 @@
 ||lukemann.de^$dnsrewrite=block.noteapp.icu
 ||lukeshoe.com^$dnsrewrite=block.noteapp.icu
 ||lululemonhamburg.de^$dnsrewrite=block.noteapp.icu
+||lululemonportugal.net^$dnsrewrite=block.noteapp.icu
 ||lululemonsale.de^$dnsrewrite=block.noteapp.icu
 ||lululemoosterreich.at^$dnsrewrite=block.noteapp.icu
 ||lumenz24.de^$dnsrewrite=block.noteapp.icu
@@ -51406,6 +51389,7 @@
 ||media-deals24.de^$dnsrewrite=block.noteapp.icu
 ||media-fix.de^$dnsrewrite=block.noteapp.icu
 ||media-genius.eu^$dnsrewrite=block.noteapp.icu
+||media-voigt.de^$dnsrewrite=block.noteapp.icu
 ||media-weber.com^$dnsrewrite=block.noteapp.icu
 ||media24.live^$dnsrewrite=block.noteapp.icu
 ||mediafritz.com^$dnsrewrite=block.noteapp.icu
@@ -51499,12 +51483,15 @@
 ||mensclothe.com^$dnsrewrite=block.noteapp.icu
 ||mensluxuryboutique.com^$dnsrewrite=block.noteapp.icu
 ||menspower.online^$dnsrewrite=block.noteapp.icu
+||iq.mental-impulse.com^$dnsrewrite=block.noteapp.icu
 ||mentoysonsale.com^$dnsrewrite=block.noteapp.icu
+||menwearshopping.com^$dnsrewrite=block.noteapp.icu
 ||mercadolibre.at^$dnsrewrite=block.noteapp.icu
 ||mercator.direct^$dnsrewrite=block.noteapp.icu
 ||mercimunich.de^$dnsrewrite=block.noteapp.icu
 ||mercury-handel24.de^$dnsrewrite=block.noteapp.icu
 ||merge-properties.com^$dnsrewrite=block.noteapp.icu
+||mergesportnew.com^$dnsrewrite=block.noteapp.icu
 ||meriaformation.com^$dnsrewrite=block.noteapp.icu
 ||meridianfinance.pro^$dnsrewrite=block.noteapp.icu
 ||merlin-kinderladen.com^$dnsrewrite=block.noteapp.icu
@@ -51569,6 +51556,7 @@
 ||milleniumchain.com^$dnsrewrite=block.noteapp.icu
 ||millioncrystal.com^$dnsrewrite=block.noteapp.icu
 ||miloujewelrys.com^$dnsrewrite=block.noteapp.icu
+||miltonas.com^$dnsrewrite=block.noteapp.icu
 ||mimty.de^$dnsrewrite=block.noteapp.icu
 ||minamuller.de^$dnsrewrite=block.noteapp.icu
 ||minasautopecas.com^$dnsrewrite=block.noteapp.icu
@@ -51655,6 +51643,7 @@
 ||mode-shop-1.de^$dnsrewrite=block.noteapp.icu
 ||modeackermann.de^$dnsrewrite=block.noteapp.icu
 ||modebaldessarini.de^$dnsrewrite=block.noteapp.icu
+||modebasket.com^$dnsrewrite=block.noteapp.icu
 ||modebecker.de^$dnsrewrite=block.noteapp.icu
 ||modeboutique.store^$dnsrewrite=block.noteapp.icu
 ||modedisne.de^$dnsrewrite=block.noteapp.icu
@@ -51681,6 +51670,7 @@
 ||modernbedshop.com^$dnsrewrite=block.noteapp.icu
 ||modernescamping.com^$dnsrewrite=block.noteapp.icu
 ||modernhome-pro.com^$dnsrewrite=block.noteapp.icu
+||modernsportitem.com^$dnsrewrite=block.noteapp.icu
 ||moderwear.shop^$dnsrewrite=block.noteapp.icu
 ||modestiacapital.com^$dnsrewrite=block.noteapp.icu
 ||modetalente.com^$dnsrewrite=block.noteapp.icu
@@ -51829,6 +51819,7 @@
 ||multimedia-lautsprecher-store.com^$dnsrewrite=block.noteapp.icu
 ||multioutdoorarea.com^$dnsrewrite=block.noteapp.icu
 ||multioutdoorpro.com^$dnsrewrite=block.noteapp.icu
+||multiplesportnew.com^$dnsrewrite=block.noteapp.icu
 ||munbrand.com^$dnsrewrite=block.noteapp.icu
 ||mundschutzhalter.net^$dnsrewrite=block.noteapp.icu
 ||muniloo.com^$dnsrewrite=block.noteapp.icu
@@ -51959,6 +51950,7 @@
 ||narnoz.de^$dnsrewrite=block.noteapp.icu
 ||nat-s.co^$dnsrewrite=block.noteapp.icu
 ||nataconceptstore.com^$dnsrewrite=block.noteapp.icu
+||natadler.com^$dnsrewrite=block.noteapp.icu
 ||natexiss-conseil.com^$dnsrewrite=block.noteapp.icu
 ||natinpop.com^$dnsrewrite=block.noteapp.icu
 ||national-bicycle.com^$dnsrewrite=block.noteapp.icu
@@ -52028,6 +52020,7 @@
 ||neueskateboardmode.com^$dnsrewrite=block.noteapp.icu
 ||neuespielzeugauto.com^$dnsrewrite=block.noteapp.icu
 ||neuesteprodukte.com^$dnsrewrite=block.noteapp.icu
+||neuetierfutter.com^$dnsrewrite=block.noteapp.icu
 ||neuewohnaccessoires.de^$dnsrewrite=block.noteapp.icu
 ||neufahrrad-prada.com^$dnsrewrite=block.noteapp.icu
 ||neufahrradprada.com^$dnsrewrite=block.noteapp.icu
@@ -52061,6 +52054,7 @@
 ||newlivingroomchairs.com^$dnsrewrite=block.noteapp.icu
 ||newmissstylish.com^$dnsrewrite=block.noteapp.icu
 ||newoutdoorpatio.com^$dnsrewrite=block.noteapp.icu
+||newqualityhome.com^$dnsrewrite=block.noteapp.icu
 ||newrcland.com^$dnsrewrite=block.noteapp.icu
 ||newretroattire.com^$dnsrewrite=block.noteapp.icu
 ||newshopmarket.com^$dnsrewrite=block.noteapp.icu
@@ -52207,6 +52201,8 @@
 ||nvgtngermany.com^$dnsrewrite=block.noteapp.icu
 ||nvgtnosterreich.at^$dnsrewrite=block.noteapp.icu
 ||nwbikeshoes.com^$dnsrewrite=block.noteapp.icu
+||nwealth.app^$dnsrewrite=block.noteapp.icu
+||nwyarnsoa.shop^$dnsrewrite=block.noteapp.icu
 ||nylsinv.com^$dnsrewrite=block.noteapp.icu
 ||nze.com^$dnsrewrite=block.noteapp.icu
 ||oakdalerotary.org^$dnsrewrite=block.noteapp.icu
@@ -52235,6 +52231,7 @@
 ||ofenholzprofi.de^$dnsrewrite=block.noteapp.icu
 ||ofenzaubeer.com^$dnsrewrite=block.noteapp.icu
 ||ofenzauber.com^$dnsrewrite=block.noteapp.icu
+||offacid.com^$dnsrewrite=block.noteapp.icu
 ||offcraftstock.com^$dnsrewrite=block.noteapp.icu
 ||offer-baseball.com^$dnsrewrite=block.noteapp.icu
 ||offeraccessories.com^$dnsrewrite=block.noteapp.icu
@@ -52253,6 +52250,7 @@
 ||offizieller-iq-test.com^$dnsrewrite=block.noteapp.icu
 ||offretroattire.com^$dnsrewrite=block.noteapp.icu
 ||offrodaa.xyz^$dnsrewrite=block.noteapp.icu
+||offsportus.com^$dnsrewrite=block.noteapp.icu
 ||offusjewellery.com^$dnsrewrite=block.noteapp.icu
 ||offvoguegoods.com^$dnsrewrite=block.noteapp.icu
 ||ofildeleau.fr^$dnsrewrite=block.noteapp.icu
@@ -52290,6 +52288,7 @@
 ||olcsociposhop.com^$dnsrewrite=block.noteapp.icu
 ||oldmoneybrasil.com^$dnsrewrite=block.noteapp.icu
 ||olemusik-shop.de^$dnsrewrite=block.noteapp.icu
+||olfanew.com^$dnsrewrite=block.noteapp.icu
 ||oliveiramoveis.store^$dnsrewrite=block.noteapp.icu
 ||oliver-schwarzer-shop.de^$dnsrewrite=block.noteapp.icu
 ||olivespielzeug.com^$dnsrewrite=block.noteapp.icu
@@ -52356,6 +52355,7 @@
 ||onlinebeleuchtung.com^$dnsrewrite=block.noteapp.icu
 ||onlinebluberri.com^$dnsrewrite=block.noteapp.icu
 ||onlinedamen.de^$dnsrewrite=block.noteapp.icu
+||onlinedefahrrad.com^$dnsrewrite=block.noteapp.icu
 ||onlinedoll-toy.com^$dnsrewrite=block.noteapp.icu
 ||onlineflamencoguitar.com^$dnsrewrite=block.noteapp.icu
 ||onlineforyou.net^$dnsrewrite=block.noteapp.icu
@@ -52366,6 +52366,7 @@
 ||onlinekuche.com^$dnsrewrite=block.noteapp.icu
 ||app.onlinelebenslauf.com^$dnsrewrite=block.noteapp.icu
 ||onlinemaripe.com^$dnsrewrite=block.noteapp.icu
+||onlinemensdenim.com^$dnsrewrite=block.noteapp.icu
 ||onlinemotorrad.com^$dnsrewrite=block.noteapp.icu
 ||onlineoutletie.cc^$dnsrewrite=block.noteapp.icu
 ||onlinepharmx.com^$dnsrewrite=block.noteapp.icu
@@ -52373,6 +52374,7 @@
 ||onlinereorg.com^$dnsrewrite=block.noteapp.icu
 ||onlinerezeptfrei.de^$dnsrewrite=block.noteapp.icu
 ||onlinernews.click^$dnsrewrite=block.noteapp.icu
+||onlineshop-eu.shop^$dnsrewrite=block.noteapp.icu
 ||de.onlineshopoutlet.ru^$dnsrewrite=block.noteapp.icu
 ||onlinesmoby.shop^$dnsrewrite=block.noteapp.icu
 ||onlineusbike.com^$dnsrewrite=block.noteapp.icu
@@ -52394,6 +52396,7 @@
 ||onsale-lampen.com^$dnsrewrite=block.noteapp.icu
 ||onsalefashionshoe.com^$dnsrewrite=block.noteapp.icu
 ||onsalemower.com^$dnsrewrite=block.noteapp.icu
+||onsalesportitem.com^$dnsrewrite=block.noteapp.icu
 ||onsalesunbeds.com^$dnsrewrite=block.noteapp.icu
 ||onschuhe.net^$dnsrewrite=block.noteapp.icu
 ||onschuhe.shop^$dnsrewrite=block.noteapp.icu
@@ -52502,6 +52505,7 @@
 ||ottozillco.de^$dnsrewrite=block.noteapp.icu
 ||ouraltis.de^$dnsrewrite=block.noteapp.icu
 ||outdoor-heinz.com^$dnsrewrite=block.noteapp.icu
+||outdoor-mall.de^$dnsrewrite=block.noteapp.icu
 ||outdoor-series.com^$dnsrewrite=block.noteapp.icu
 ||outdoorcabelas.com^$dnsrewrite=block.noteapp.icu
 ||outdoorfurnitureuk.com^$dnsrewrite=block.noteapp.icu
@@ -52522,6 +52526,7 @@
 ||outdoorshirtde.com^$dnsrewrite=block.noteapp.icu
 ||outdoorshirtshop.com^$dnsrewrite=block.noteapp.icu
 ||outdoorspetzl.com^$dnsrewrite=block.noteapp.icu
+||outdoorsportsequip.com^$dnsrewrite=block.noteapp.icu
 ||outdoorsretail.com^$dnsrewrite=block.noteapp.icu
 ||outdoorzelte.com^$dnsrewrite=block.noteapp.icu
 ||outlet-farm.com^$dnsrewrite=block.noteapp.icu
@@ -52588,6 +52593,7 @@
 ||pacificgroup.ltd^$dnsrewrite=block.noteapp.icu
 ||packingbagsshop.com^$dnsrewrite=block.noteapp.icu
 ||packlogistic.com^$dnsrewrite=block.noteapp.icu
+||packsoutdoor.com^$dnsrewrite=block.noteapp.icu
 ||www.buy-bitcoin.pagedemo.co^$dnsrewrite=block.noteapp.icu
 ||pagesneakers.com^$dnsrewrite=block.noteapp.icu
 ||painthotsale.com^$dnsrewrite=block.noteapp.icu
@@ -52648,6 +52654,7 @@
 ||patrimoinefacile.com^$dnsrewrite=block.noteapp.icu
 ||patrimoinesolution.com^$dnsrewrite=block.noteapp.icu
 ||patriziabeni.com^$dnsrewrite=block.noteapp.icu
+||paul-joses.de^$dnsrewrite=block.noteapp.icu
 ||paulidesign.shop^$dnsrewrite=block.noteapp.icu
 ||paulinasinger.com^$dnsrewrite=block.noteapp.icu
 ||pavan.top^$dnsrewrite=block.noteapp.icu
@@ -52689,6 +52696,7 @@
 ||perfect-pilots.com^$dnsrewrite=block.noteapp.icu
 ||perfectcess.shop^$dnsrewrite=block.noteapp.icu
 ||perfectsalah.nl^$dnsrewrite=block.noteapp.icu
+||perfectshoes-us.com^$dnsrewrite=block.noteapp.icu
 ||perfecttoolshop.com^$dnsrewrite=block.noteapp.icu
 ||perfekteraufsitzmaher.com^$dnsrewrite=block.noteapp.icu
 ||perfumeowner.com^$dnsrewrite=block.noteapp.icu
@@ -52758,6 +52766,7 @@
 ||pikfein.com^$dnsrewrite=block.noteapp.icu
 ||pilemeds.com^$dnsrewrite=block.noteapp.icu
 ||pillen-apo.de^$dnsrewrite=block.noteapp.icu
+||pillen-apotheke.de^$dnsrewrite=block.noteapp.icu
 ||pillen-guenstig.de^$dnsrewrite=block.noteapp.icu
 ||pillenhaus.de^$dnsrewrite=block.noteapp.icu
 ||pillenrezeptfrei.de^$dnsrewrite=block.noteapp.icu
@@ -52796,6 +52805,7 @@
 ||planathandel.de^$dnsrewrite=block.noteapp.icu
 ||plantonsale.com^$dnsrewrite=block.noteapp.icu
 ||plantsch24.de^$dnsrewrite=block.noteapp.icu
+||plantshopp.de^$dnsrewrite=block.noteapp.icu
 ||planttshop.com^$dnsrewrite=block.noteapp.icu
 ||planttshop.de^$dnsrewrite=block.noteapp.icu
 ||plasticsdaily.com^$dnsrewrite=block.noteapp.icu
@@ -52875,6 +52885,7 @@
 ||post-nachsenden.de^$dnsrewrite=block.noteapp.icu
 ||postcard.news^$dnsrewrite=block.noteapp.icu
 ||potberg-handel.de^$dnsrewrite=block.noteapp.icu
+||potens-middel.com^$dnsrewrite=block.noteapp.icu
 ||potenz-pillen-mann.com^$dnsrewrite=block.noteapp.icu
 ||potenzapo24.com^$dnsrewrite=block.noteapp.icu
 ||potenzapo24.de^$dnsrewrite=block.noteapp.icu
@@ -52882,6 +52893,7 @@
 ||potenzladen.club^$dnsrewrite=block.noteapp.icu
 ||potenzmedizinapotheke.at^$dnsrewrite=block.noteapp.icu
 ||lp.potenzmittel.gratis^$dnsrewrite=block.noteapp.icu
+||potenzmittel-1.com^$dnsrewrite=block.noteapp.icu
 ||potenzmittel-apotheke.biz^$dnsrewrite=block.noteapp.icu
 ||potenzmittel-apotheke.eu^$dnsrewrite=block.noteapp.icu
 ||potenzmittel-kaufen-deutschland.com^$dnsrewrite=block.noteapp.icu
@@ -52909,6 +52921,7 @@
 ||prednisolon-rezeptfrei-osterreich.com^$dnsrewrite=block.noteapp.icu
 ||prednisone-buyonline.site^$dnsrewrite=block.noteapp.icu
 ||rotln.preis-meister.com^$dnsrewrite=block.noteapp.icu
+||preisglueck24.de^$dnsrewrite=block.noteapp.icu
 ||preisprinzessinde24.de^$dnsrewrite=block.noteapp.icu
 ||preistech.de^$dnsrewrite=block.noteapp.icu
 ||prelovesov.live^$dnsrewrite=block.noteapp.icu
@@ -52960,6 +52973,7 @@
 ||pro-kreditfinanz.de^$dnsrewrite=block.noteapp.icu
 ||pro-sportshop.com^$dnsrewrite=block.noteapp.icu
 ||pro-talentsycner.online^$dnsrewrite=block.noteapp.icu
+||proacehardware.com^$dnsrewrite=block.noteapp.icu
 ||proactiveping.com^$dnsrewrite=block.noteapp.icu
 ||proathleticsus.com^$dnsrewrite=block.noteapp.icu
 ||probikeclothes.com^$dnsrewrite=block.noteapp.icu
@@ -53028,6 +53042,7 @@
 ||pukkashopeu.com^$dnsrewrite=block.noteapp.icu
 ||pulse-estate.com^$dnsrewrite=block.noteapp.icu
 ||pulsefinance.de^$dnsrewrite=block.noteapp.icu
+||puma-austria.at^$dnsrewrite=block.noteapp.icu
 ||pumadeutschland.de^$dnsrewrite=block.noteapp.icu
 ||pumafi.com^$dnsrewrite=block.noteapp.icu
 ||pumaton-finanz.com^$dnsrewrite=block.noteapp.icu
@@ -53083,6 +53098,7 @@
 ||rabatt-disney.de^$dnsrewrite=block.noteapp.icu
 ||rabattakkuslader.com^$dnsrewrite=block.noteapp.icu
 ||rabattarkk.de^$dnsrewrite=block.noteapp.icu
+||rabattbacken.com^$dnsrewrite=block.noteapp.icu
 ||rabattbademode.com^$dnsrewrite=block.noteapp.icu
 ||rabattbaukasten.com^$dnsrewrite=block.noteapp.icu
 ||rabattbekleidung.de^$dnsrewrite=block.noteapp.icu
@@ -53109,6 +53125,7 @@
 ||rabattschuh.com^$dnsrewrite=block.noteapp.icu
 ||rabattschuhokay.com^$dnsrewrite=block.noteapp.icu
 ||rabattsender.com^$dnsrewrite=block.noteapp.icu
+||rabattskisde.com^$dnsrewrite=block.noteapp.icu
 ||rabattsport.de^$dnsrewrite=block.noteapp.icu
 ||rabattsportbekleidung.com^$dnsrewrite=block.noteapp.icu
 ||rabattwerkzeuge.com^$dnsrewrite=block.noteapp.icu
@@ -53131,6 +53148,7 @@
 ||radioustrendy.com^$dnsrewrite=block.noteapp.icu
 ||radixinvest.com^$dnsrewrite=block.noteapp.icu
 ||radonfahrrad.com^$dnsrewrite=block.noteapp.icu
+||radonsale.com^$dnsrewrite=block.noteapp.icu
 ||radtourmitthule.de^$dnsrewrite=block.noteapp.icu
 ||radtrikotoutlet.de^$dnsrewrite=block.noteapp.icu
 ||raduniversum.de^$dnsrewrite=block.noteapp.icu
@@ -53144,6 +53162,7 @@
 ||rainbowreiki-hn.de^$dnsrewrite=block.noteapp.icu
 ||rainer-baumarkt.de^$dnsrewrite=block.noteapp.icu
 ||raka24.de^$dnsrewrite=block.noteapp.icu
+||rakaa24.de^$dnsrewrite=block.noteapp.icu
 ||ralf-modehaus.de^$dnsrewrite=block.noteapp.icu
 ||raluphluxury.com^$dnsrewrite=block.noteapp.icu
 ||ramsesmarket.com^$dnsrewrite=block.noteapp.icu
@@ -53190,8 +53209,10 @@
 ||rczubehr.de^$dnsrewrite=block.noteapp.icu
 ||rdoering.de^$dnsrewrite=block.noteapp.icu
 ||reality-golf.com^$dnsrewrite=block.noteapp.icu
+||realmadridcf.de^$dnsrewrite=block.noteapp.icu
 ||realstock.es^$dnsrewrite=block.noteapp.icu
 ||rebateknife.com^$dnsrewrite=block.noteapp.icu
+||rebatenewoutdoor.com^$dnsrewrite=block.noteapp.icu
 ||rebateoutdoorpro.com^$dnsrewrite=block.noteapp.icu
 ||rebateoutsportus.com^$dnsrewrite=block.noteapp.icu
 ||rebatestoreus.com^$dnsrewrite=block.noteapp.icu
@@ -53407,6 +53428,7 @@
 ||rockportschoenen.com^$dnsrewrite=block.noteapp.icu
 ||rockportshoesmexico.com^$dnsrewrite=block.noteapp.icu
 ||rockporttr.com^$dnsrewrite=block.noteapp.icu
+||rockshoxrabatt.com^$dnsrewrite=block.noteapp.icu
 ||rockwell-berlin.de^$dnsrewrite=block.noteapp.icu
 ||rocolee.com^$dnsrewrite=block.noteapp.icu
 ||roctec-europe.com^$dnsrewrite=block.noteapp.icu
@@ -53433,6 +53455,7 @@
 ||ronctly.com^$dnsrewrite=block.noteapp.icu
 ||ronovia.de^$dnsrewrite=block.noteapp.icu
 ||rontis.de^$dnsrewrite=block.noteapp.icu
+||roofpanelsshop.com^$dnsrewrite=block.noteapp.icu
 ||roominabox.shop^$dnsrewrite=block.noteapp.icu
 ||roomosa.homes^$dnsrewrite=block.noteapp.icu
 ||rootsandwings.at^$dnsrewrite=block.noteapp.icu
@@ -53741,6 +53764,7 @@
 ||schwarzundlang.de^$dnsrewrite=block.noteapp.icu
 ||schweibenhandel.com^$dnsrewrite=block.noteapp.icu
 ||schweibenprofi.com^$dnsrewrite=block.noteapp.icu
+||scooterduck.de^$dnsrewrite=block.noteapp.icu
 ||scopesaccessories.com^$dnsrewrite=block.noteapp.icu
 ||scpi-gouv.fr^$dnsrewrite=block.noteapp.icu
 ||screenacy.co^$dnsrewrite=block.noteapp.icu
@@ -53785,6 +53809,7 @@
 ||selig-baby.com^$dnsrewrite=block.noteapp.icu
 ||selivoo.de^$dnsrewrite=block.noteapp.icu
 ||sellano.de^$dnsrewrite=block.noteapp.icu
+||sellerusapparel.com^$dnsrewrite=block.noteapp.icu
 ||sellhqvs.best^$dnsrewrite=block.noteapp.icu
 ||sellodoov.pics^$dnsrewrite=block.noteapp.icu
 ||selltipar.live^$dnsrewrite=block.noteapp.icu
@@ -53841,11 +53866,13 @@
 ||shatech.de^$dnsrewrite=block.noteapp.icu
 ||shavenation.shop^$dnsrewrite=block.noteapp.icu
 ||shawl-online.com^$dnsrewrite=block.noteapp.icu
+||shelbytrueax.shop^$dnsrewrite=block.noteapp.icu
 ||sherade.shop^$dnsrewrite=block.noteapp.icu
 ||shewaves.com^$dnsrewrite=block.noteapp.icu
 ||shezone257.com^$dnsrewrite=block.noteapp.icu
 ||shiftbrakeleverde.com^$dnsrewrite=block.noteapp.icu
 ||shiloo.net^$dnsrewrite=block.noteapp.icu
+||shimanofahrrad.com^$dnsrewrite=block.noteapp.icu
 ||shimanopart.com^$dnsrewrite=block.noteapp.icu
 ||shimmeringjewelry.com^$dnsrewrite=block.noteapp.icu
 ||shinelampenshop.com^$dnsrewrite=block.noteapp.icu
@@ -53917,10 +53944,12 @@
 ||shopfaciloja.com^$dnsrewrite=block.noteapp.icu
 ||shopfashion2023.com^$dnsrewrite=block.noteapp.icu
 ||shopfasts.shop^$dnsrewrite=block.noteapp.icu
+||shopfreude24.de^$dnsrewrite=block.noteapp.icu
 ||shopgamefishing.com^$dnsrewrite=block.noteapp.icu
 ||shopgenusswelt.de^$dnsrewrite=block.noteapp.icu
 ||shopguterwein.com^$dnsrewrite=block.noteapp.icu
 ||shophaushaltswaren.com^$dnsrewrite=block.noteapp.icu
+||shophometool.com^$dnsrewrite=block.noteapp.icu
 ||shopinwaermekissen.shop^$dnsrewrite=block.noteapp.icu
 ||shopjamei.com^$dnsrewrite=block.noteapp.icu
 ||shopjbweld.com^$dnsrewrite=block.noteapp.icu
@@ -53929,6 +53958,7 @@
 ||shopkrone.de^$dnsrewrite=block.noteapp.icu
 ||shoplazo.com^$dnsrewrite=block.noteapp.icu
 ||shopleo.de^$dnsrewrite=block.noteapp.icu
+||shoplyt.store^$dnsrewrite=block.noteapp.icu
 ||shopmacher-vip.com^$dnsrewrite=block.noteapp.icu
 ||shopmallknives.com^$dnsrewrite=block.noteapp.icu
 ||shopmarkt.net^$dnsrewrite=block.noteapp.icu
@@ -53947,10 +53977,12 @@
 ||shopping-mag.de^$dnsrewrite=block.noteapp.icu
 ||shopping-paradise.net^$dnsrewrite=block.noteapp.icu
 ||shoppingdeautopecas.com^$dnsrewrite=block.noteapp.icu
+||shoppingharmonie.de^$dnsrewrite=block.noteapp.icu
 ||shoppingsmart.store^$dnsrewrite=block.noteapp.icu
 ||shoppocski.com^$dnsrewrite=block.noteapp.icu
 ||shoppyy.de^$dnsrewrite=block.noteapp.icu
 ||shopraidlight.com^$dnsrewrite=block.noteapp.icu
+||shoprhandyretter.shop^$dnsrewrite=block.noteapp.icu
 ||shopringstore.com^$dnsrewrite=block.noteapp.icu
 ||shoprosada.com^$dnsrewrite=block.noteapp.icu
 ||shops-eminem.com^$dnsrewrite=block.noteapp.icu
@@ -54012,6 +54044,7 @@
 ||sitevogue-us.com^$dnsrewrite=block.noteapp.icu
 ||sixtrading.net^$dnsrewrite=block.noteapp.icu
 ||skate-erlebnis.com^$dnsrewrite=block.noteapp.icu
+||skateboardhandpick.com^$dnsrewrite=block.noteapp.icu
 ||skateboardingscooter.de^$dnsrewrite=block.noteapp.icu
 ||skatedeluxesale.shop^$dnsrewrite=block.noteapp.icu
 ||skecheroutlets.shop^$dnsrewrite=block.noteapp.icu
@@ -54082,6 +54115,7 @@
 ||smitdeals.de^$dnsrewrite=block.noteapp.icu
 ||smk.dog^$dnsrewrite=block.noteapp.icu
 ||smokerland.net^$dnsrewrite=block.noteapp.icu
+||smokingwares.com^$dnsrewrite=block.noteapp.icu
 ||smpecasparts.com^$dnsrewrite=block.noteapp.icu
 ||smtgarden.com^$dnsrewrite=block.noteapp.icu
 ||sneakernews79.top^$dnsrewrite=block.noteapp.icu
@@ -54162,6 +54196,7 @@
 ||solutioncrypto.com^$dnsrewrite=block.noteapp.icu
 ||solventus-shop.de^$dnsrewrite=block.noteapp.icu
 ||sommeraufdemland.de^$dnsrewrite=block.noteapp.icu
+||sonaxverkauf.com^$dnsrewrite=block.noteapp.icu
 ||sonerly.com^$dnsrewrite=block.noteapp.icu
 ||sonnenlit.de^$dnsrewrite=block.noteapp.icu
 ||sonnesucht.de^$dnsrewrite=block.noteapp.icu
@@ -54198,10 +54233,12 @@
 ||sparkingde.shop^$dnsrewrite=block.noteapp.icu
 ||sparprime.com^$dnsrewrite=block.noteapp.icu
 ||sparschmiede.de^$dnsrewrite=block.noteapp.icu
+||spartraum24.de^$dnsrewrite=block.noteapp.icu
 ||specialmdassortment.com^$dnsrewrite=block.noteapp.icu
 ||specialtytraderssale.shop^$dnsrewrite=block.noteapp.icu
 ||speed-gaming.com^$dnsrewrite=block.noteapp.icu
 ||speelgoed-outlet.com^$dnsrewrite=block.noteapp.icu
+||speichergarten.com^$dnsrewrite=block.noteapp.icu
 ||speichern-fahrrad.com^$dnsrewrite=block.noteapp.icu
 ||spena24.de^$dnsrewrite=block.noteapp.icu
 ||sperry-deutschland.com^$dnsrewrite=block.noteapp.icu
@@ -54215,12 +54252,14 @@
 ||spieluniversum.com^$dnsrewrite=block.noteapp.icu
 ||spielzeug-kaufen.net^$dnsrewrite=block.noteapp.icu
 ||spielzeugeneu.de^$dnsrewrite=block.noteapp.icu
+||spielzeugneue.com^$dnsrewrite=block.noteapp.icu
 ||spielzeugsde.com^$dnsrewrite=block.noteapp.icu
 ||spielzeugsport.com^$dnsrewrite=block.noteapp.icu
 ||spielzeugtonie.com^$dnsrewrite=block.noteapp.icu
 ||spigendeutschlandshop.com^$dnsrewrite=block.noteapp.icu
 ||spinderabatt.com^$dnsrewrite=block.noteapp.icu
 ||spinnrutede.com^$dnsrewrite=block.noteapp.icu
+||spirits-official.com^$dnsrewrite=block.noteapp.icu
 ||spiritualsalt.co^$dnsrewrite=block.noteapp.icu
 ||splendris-pharmaceuticals.de^$dnsrewrite=block.noteapp.icu
 ||sport-athletics.de^$dnsrewrite=block.noteapp.icu
@@ -54330,6 +54369,7 @@
 ||stephandoleschal.shop^$dnsrewrite=block.noteapp.icu
 ||stephanheinrich.shop^$dnsrewrite=block.noteapp.icu
 ||stephanie-gustai.de^$dnsrewrite=block.noteapp.icu
+||stereoswitch.de^$dnsrewrite=block.noteapp.icu
 ||sterico24.de^$dnsrewrite=block.noteapp.icu
 ||sterlingsfx.com^$dnsrewrite=block.noteapp.icu
 ||sternestd.de^$dnsrewrite=block.noteapp.icu
@@ -54477,6 +54517,7 @@
 ||stylishcarnival.com^$dnsrewrite=block.noteapp.icu
 ||stylishmirror.com^$dnsrewrite=block.noteapp.icu
 ||stylishshoesus.com^$dnsrewrite=block.noteapp.icu
+||stylishusapparel.com^$dnsrewrite=block.noteapp.icu
 ||stylishwilderness.com^$dnsrewrite=block.noteapp.icu
 ||stylow.de^$dnsrewrite=block.noteapp.icu
 ||subhmobiles.com^$dnsrewrite=block.noteapp.icu
@@ -54546,6 +54587,7 @@
 ||supply-toys.com^$dnsrewrite=block.noteapp.icu
 ||supplyalfresco.com^$dnsrewrite=block.noteapp.icu
 ||supplyaquatics.com^$dnsrewrite=block.noteapp.icu
+||supplychicgeneral.com^$dnsrewrite=block.noteapp.icu
 ||supplydentalcare.com^$dnsrewrite=block.noteapp.icu
 ||supplyswimwear.com^$dnsrewrite=block.noteapp.icu
 ||supportfortross.org^$dnsrewrite=block.noteapp.icu
@@ -54561,10 +54603,12 @@
 ||surf-popular.com^$dnsrewrite=block.noteapp.icu
 ||surfabenteuer.com^$dnsrewrite=block.noteapp.icu
 ||surfapparelus.com^$dnsrewrite=block.noteapp.icu
+||surfattire.com^$dnsrewrite=block.noteapp.icu
 ||surfdomefantasy.com^$dnsrewrite=block.noteapp.icu
 ||surfgearmall.com^$dnsrewrite=block.noteapp.icu
 ||surfgearpioneer.com^$dnsrewrite=block.noteapp.icu
 ||surfhobby.com^$dnsrewrite=block.noteapp.icu
+||surfingfavorite.com^$dnsrewrite=block.noteapp.icu
 ||surfingneeds.com^$dnsrewrite=block.noteapp.icu
 ||surfingoff.com^$dnsrewrite=block.noteapp.icu
 ||surfneue.com^$dnsrewrite=block.noteapp.icu
@@ -54619,6 +54663,7 @@
 ||symbiosiswellbeing.com^$dnsrewrite=block.noteapp.icu
 ||symbolberlin.com^$dnsrewrite=block.noteapp.icu
 ||abigo4u.symfony.nl^$dnsrewrite=block.noteapp.icu
+||syniaty.com^$dnsrewrite=block.noteapp.icu
 ||synthesizestylish.com^$dnsrewrite=block.noteapp.icu
 ||syntheticalusbag.com^$dnsrewrite=block.noteapp.icu
 ||syos-space.capital^$dnsrewrite=block.noteapp.icu
@@ -54671,6 +54716,7 @@
 ||target-speichern.de^$dnsrewrite=block.noteapp.icu
 ||tascheaktion.shop^$dnsrewrite=block.noteapp.icu
 ||taschenmesser-de.com^$dnsrewrite=block.noteapp.icu
+||taschenmesserde.com^$dnsrewrite=block.noteapp.icu
 ||taschenonlinede.com^$dnsrewrite=block.noteapp.icu
 ||taschenrabatt.com^$dnsrewrite=block.noteapp.icu
 ||tastefulshoes.com^$dnsrewrite=block.noteapp.icu
@@ -54818,6 +54864,7 @@
 ||the-teslerapp.com^$dnsrewrite=block.noteapp.icu
 ||the-wise-investment.net^$dnsrewrite=block.noteapp.icu
 ||theadzysgoods.com^$dnsrewrite=block.noteapp.icu
+||theapparelfield.com^$dnsrewrite=block.noteapp.icu
 ||theautodaily.com^$dnsrewrite=block.noteapp.icu
 ||thebagus.com^$dnsrewrite=block.noteapp.icu
 ||thebellabelle.com^$dnsrewrite=block.noteapp.icu
@@ -54849,6 +54896,7 @@
 ||theliquordeals.com^$dnsrewrite=block.noteapp.icu
 ||themaddengirl.com^$dnsrewrite=block.noteapp.icu
 ||themdbuilding.com^$dnsrewrite=block.noteapp.icu
+||themusicianhouse.com^$dnsrewrite=block.noteapp.icu
 ||thenetfarmacia.com^$dnsrewrite=block.noteapp.icu
 ||thenorthfacehamburg.de^$dnsrewrite=block.noteapp.icu
 ||theodore-furniture.com^$dnsrewrite=block.noteapp.icu
@@ -54880,8 +54928,10 @@
 ||thermoscupneu.de^$dnsrewrite=block.noteapp.icu
 ||thermoshapers.de^$dnsrewrite=block.noteapp.icu
 ||thesafetyequip.com^$dnsrewrite=block.noteapp.icu
+||theshoegift.com^$dnsrewrite=block.noteapp.icu
 ||thesissystore.com^$dnsrewrite=block.noteapp.icu
 ||thesneakershouse.com^$dnsrewrite=block.noteapp.icu
+||thesportcategory.com^$dnsrewrite=block.noteapp.icu
 ||thesportsua.com^$dnsrewrite=block.noteapp.icu
 ||thestarnewstoday.com^$dnsrewrite=block.noteapp.icu
 ||thetennisaccessories.com^$dnsrewrite=block.noteapp.icu
@@ -55023,6 +55073,7 @@
 ||toolisspro.com^$dnsrewrite=block.noteapp.icu
 ||toolproonsale.com^$dnsrewrite=block.noteapp.icu
 ||toolreliable.com^$dnsrewrite=block.noteapp.icu
+||tools-total.com^$dnsrewrite=block.noteapp.icu
 ||toolsalezone.com^$dnsrewrite=block.noteapp.icu
 ||toolsde.com^$dnsrewrite=block.noteapp.icu
 ||toolsiteportable.com^$dnsrewrite=block.noteapp.icu
@@ -55196,6 +55247,7 @@
 ||trendsmodern.com^$dnsrewrite=block.noteapp.icu
 ||trendspremium.store^$dnsrewrite=block.noteapp.icu
 ||trendtakt.de^$dnsrewrite=block.noteapp.icu
+||trendusapparel.com^$dnsrewrite=block.noteapp.icu
 ||trendy-swimsuit.com^$dnsrewrite=block.noteapp.icu
 ||trendychaussure.com^$dnsrewrite=block.noteapp.icu
 ||trendystillnordic.shop^$dnsrewrite=block.noteapp.icu
@@ -55209,6 +55261,7 @@
 ||trikots-onshop.com^$dnsrewrite=block.noteapp.icu
 ||trikots4u.com^$dnsrewrite=block.noteapp.icu
 ||trikotsale.de^$dnsrewrite=block.noteapp.icu
+||trilavora.com^$dnsrewrite=block.noteapp.icu
 ||trillant.com^$dnsrewrite=block.noteapp.icu
 ||trimzy.de^$dnsrewrite=block.noteapp.icu
 ||triton-online.com^$dnsrewrite=block.noteapp.icu
@@ -55270,6 +55323,7 @@
 ||tuninglinie.de^$dnsrewrite=block.noteapp.icu
 ||tupperware-de.shop^$dnsrewrite=block.noteapp.icu
 ||tupperware-osterreich.com^$dnsrewrite=block.noteapp.icu
+||tuppoutlet.shop^$dnsrewrite=block.noteapp.icu
 ||tuppsale-eu.shop^$dnsrewrite=block.noteapp.icu
 ||turbo-finanz.com^$dnsrewrite=block.noteapp.icu
 ||turbolidlcraft.com^$dnsrewrite=block.noteapp.icu
@@ -55280,6 +55334,7 @@
 ||tv-sideboards-sale.com^$dnsrewrite=block.noteapp.icu
 ||tvktransport.com^$dnsrewrite=block.noteapp.icu
 ||tvlowboards.de^$dnsrewrite=block.noteapp.icu
+||tvsale24.com^$dnsrewrite=block.noteapp.icu
 ||tvshop-us.com^$dnsrewrite=block.noteapp.icu
 ||tw-access.com^$dnsrewrite=block.noteapp.icu
 ||twilight-fans.de^$dnsrewrite=block.noteapp.icu
@@ -55380,6 +55435,7 @@
 ||unterstuetzungskasse.at^$dnsrewrite=block.noteapp.icu
 ||unterwaeschede.de^$dnsrewrite=block.noteapp.icu
 ||unterwegsmitthule.de^$dnsrewrite=block.noteapp.icu
+||unusualtoolitem.com^$dnsrewrite=block.noteapp.icu
 ||unykredit.com^$dnsrewrite=block.noteapp.icu
 ||unzshoes.top^$dnsrewrite=block.noteapp.icu
 ||updebatesociety.com^$dnsrewrite=block.noteapp.icu
@@ -55417,6 +55473,7 @@
 ||usapharmashop.online^$dnsrewrite=block.noteapp.icu
 ||usapill24hours.com^$dnsrewrite=block.noteapp.icu
 ||usaskicategory.com^$dnsrewrite=block.noteapp.icu
+||usastylishmagic.com^$dnsrewrite=block.noteapp.icu
 ||usawalldecor.com^$dnsrewrite=block.noteapp.icu
 ||usbadmintonsite.com^$dnsrewrite=block.noteapp.icu
 ||usbaseballabout.com^$dnsrewrite=block.noteapp.icu
@@ -55447,6 +55504,7 @@
 ||usofficialjewelry.com^$dnsrewrite=block.noteapp.icu
 ||usofficialopenair.com^$dnsrewrite=block.noteapp.icu
 ||usoffsports.com^$dnsrewrite=block.noteapp.icu
+||usonealbike.com^$dnsrewrite=block.noteapp.icu
 ||usonlineoutdoor.com^$dnsrewrite=block.noteapp.icu
 ||usopenair.com^$dnsrewrite=block.noteapp.icu
 ||usoptimalsports.com^$dnsrewrite=block.noteapp.icu
@@ -55459,9 +55517,12 @@
 ||uspluskids.com^$dnsrewrite=block.noteapp.icu
 ||uspromoski.com^$dnsrewrite=block.noteapp.icu
 ||usps-ups.cc^$dnsrewrite=block.noteapp.icu
+||usrebatebaseball.com^$dnsrewrite=block.noteapp.icu
 ||usretailtool.com^$dnsrewrite=block.noteapp.icu
 ||ussalesfishing.com^$dnsrewrite=block.noteapp.icu
+||usshoestock.com^$dnsrewrite=block.noteapp.icu
 ||usshopoutdoor.com^$dnsrewrite=block.noteapp.icu
+||ussmokingproduct.com^$dnsrewrite=block.noteapp.icu
 ||ussolesensation.com^$dnsrewrite=block.noteapp.icu
 ||ussportdiscount.com^$dnsrewrite=block.noteapp.icu
 ||usstylesite.com^$dnsrewrite=block.noteapp.icu
@@ -55510,6 +55571,7 @@
 ||vasons.de^$dnsrewrite=block.noteapp.icu
 ||vast-spedition.com^$dnsrewrite=block.noteapp.icu
 ||vatan.at^$dnsrewrite=block.noteapp.icu
+||vatlab.cc^$dnsrewrite=block.noteapp.icu
 ||vatradecoin.net^$dnsrewrite=block.noteapp.icu
 ||vaudeberlin.de^$dnsrewrite=block.noteapp.icu
 ||vaudefabrikverkauf.de^$dnsrewrite=block.noteapp.icu
@@ -55568,15 +55630,17 @@
 ||veralo.de^$dnsrewrite=block.noteapp.icu
 ||veramodehaus.de^$dnsrewrite=block.noteapp.icu
 ||veraustria.com^$dnsrewrite=block.noteapp.icu
-||verbazenkoperss.de^$dnsrewrite=block.noteapp.icu
 ||verbraucher-profis.de^$dnsrewrite=block.noteapp.icu
 ||vereinsbedarf-bhutta.shop^$dnsrewrite=block.noteapp.icu
 ||verifizierungamericanexpress.com^$dnsrewrite=block.noteapp.icu
 ||veripro.de^$dnsrewrite=block.noteapp.icu
 ||verkauf-rezeptfrei.de^$dnsrewrite=block.noteapp.icu
+||verkaufbike.com^$dnsrewrite=block.noteapp.icu
 ||verkaufelektro.com^$dnsrewrite=block.noteapp.icu
 ||verkaufen-tonies.com^$dnsrewrite=block.noteapp.icu
 ||verkaufenhardwaretools.com^$dnsrewrite=block.noteapp.icu
+||verkauffahrradbike.com^$dnsrewrite=block.noteapp.icu
+||verkaufgarten.com^$dnsrewrite=block.noteapp.icu
 ||verkaufmode.de^$dnsrewrite=block.noteapp.icu
 ||verkaufschuhe.de^$dnsrewrite=block.noteapp.icu
 ||verkettet-dogs.com^$dnsrewrite=block.noteapp.icu
@@ -55800,6 +55864,7 @@
 ||wardrobecheap.com^$dnsrewrite=block.noteapp.icu
 ||warenhausdeutschland.com^$dnsrewrite=block.noteapp.icu
 ||warenwelt-eu.com^$dnsrewrite=block.noteapp.icu
+||waresnewbike.com^$dnsrewrite=block.noteapp.icu
 ||waresusbike.com^$dnsrewrite=block.noteapp.icu
 ||warmholz.de^$dnsrewrite=block.noteapp.icu
 ||warmtepompe.com^$dnsrewrite=block.noteapp.icu
@@ -55992,6 +56057,7 @@
 ||windelnschritte.de^$dnsrewrite=block.noteapp.icu
 ||windelwissendeava.shop^$dnsrewrite=block.noteapp.icu
 ||windendew.de^$dnsrewrite=block.noteapp.icu
+||windmillknifeshop.com^$dnsrewrite=block.noteapp.icu
 ||windsurfsegel.com^$dnsrewrite=block.noteapp.icu
 ||windyys.com^$dnsrewrite=block.noteapp.icu
 ||wine-investments.com^$dnsrewrite=block.noteapp.icu
@@ -56042,6 +56108,7 @@
 ||wolverinebootsdeutschland.com^$dnsrewrite=block.noteapp.icu
 ||women-vintage.com^$dnsrewrite=block.noteapp.icu
 ||womenfarmsale.com^$dnsrewrite=block.noteapp.icu
+||womenshop-plus.com^$dnsrewrite=block.noteapp.icu
 ||womensjewelry.store^$dnsrewrite=block.noteapp.icu
 ||womma.de^$dnsrewrite=block.noteapp.icu
 ||wondertoybox.com^$dnsrewrite=block.noteapp.icu
@@ -56082,6 +56149,7 @@
 ||wristbandpin.com^$dnsrewrite=block.noteapp.icu
 ||wrlovesk.life^$dnsrewrite=block.noteapp.icu
 ||wt-versand.de^$dnsrewrite=block.noteapp.icu
+||wunderwild.de^$dnsrewrite=block.noteapp.icu
 ||wunschau.de^$dnsrewrite=block.noteapp.icu
 ||wurzelreich.shop^$dnsrewrite=block.noteapp.icu
 ||wv-langen.de^$dnsrewrite=block.noteapp.icu
@@ -56170,6 +56238,7 @@
 ||yarnoas.de^$dnsrewrite=block.noteapp.icu
 ||yashigeoutlet.com^$dnsrewrite=block.noteapp.icu
 ||ybcladmetal.com^$dnsrewrite=block.noteapp.icu
+||ydmenstyle.com^$dnsrewrite=block.noteapp.icu
 ||yeezy.at^$dnsrewrite=block.noteapp.icu
 ||yeezy-450.com^$dnsrewrite=block.noteapp.icu
 ||yeezyadidas.de^$dnsrewrite=block.noteapp.icu
